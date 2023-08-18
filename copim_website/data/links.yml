@@ -1,0 +1,82 @@
+tiles:
+-
+  name: "Open Book Collective"
+  url: "https://openbookcollective.org/"
+  img: "logos/obc.png"
+  tags: ["organisations"]
+-
+  name: "Opening the Future"
+  url: "https://www.openingthefuture.net/"
+  img: "logos/obf.png"
+  txt_color: "#ffffff"
+  tags: ["organisations"]
+-
+  name: "Thoth"
+  url: "https://thoth.pub/"
+  img: "logos/thoth.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["organisations", "software"]
+-
+  name: "Open Book Futures"
+  url: "https://openbookfutures.copim.ac.uk"
+  bg_color: "#EA7F1D"
+  txt_color: "#ffffff"
+  tags: ["projects"]
+-
+  name: "Copim"
+  url: "https://archive.copim.ac.uk"
+  img: "logos/copim-logo.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["projects"]
+-
+  name: "Experimental Publishing Compendium"
+  url: "https://compendium.copim.ac.uk/"
+  bg_color: "#B398FF"
+  txt_color: "#ffffff"
+  tags: ["toolkits", "software"]
+- 
+  name: "Copim PubPub"
+  url: "https://copim.pubpub.org/"
+  bg_color: "#98C8FF"
+  txt_color: "#000000"
+  tags: ["documentation"]
+-
+  name: "Toolkit for Small and Scholar-Led Open Access Publishers"
+  url: "https://bookstack.openbookcollective.org/"
+  bg_color: "#EA1484"
+  txt_color: "#ffffff"
+  tags: ["toolkits"]
+-
+  name: "Twitter"
+  url: "https://twitter.com/copimproject"
+  bg_color: "#188CD8"
+  txt_color: "#ffffff"
+  tags: ["socials"]
+-
+  name: "Mastodon"
+  url: "https://hcommons.social/@copim"
+  bg_color: "#BFCDD9"
+  txt_color: "#ffffff"
+  tags: ["socials"]
+-
+  name: "Wikipedia"
+  url: "https://en.wikipedia.org/wiki/COPIM"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["socials"]
+-
+  name: "Zenodo"
+  url: "https://zenodo.org/communities/copim/"
+  img: "logos/zenodo.svg"
+  bg_color: "#004BAB"
+  txt_color: "#ffffff"
+  tags: ["documentation"]
+-
+  name: "GitHub"
+  url: "https://github.com/COPIM"
+  img: "logos/GitHub_Logo.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["documentation", "software"]
