@@ -4,15 +4,6 @@ title: "Socials"
 
 Follow us on social media:
 
-### Twitter
-
-[@COPIMproject](https://twitter.com/copimproject)
-
-[@OpenBookCollect](https://twitter.com/OpenBookCollect)
-
-[@Thoth_metadata](https://twitter.com/Thoth_metadata)
-
-
 ### Mastodon
 
 [@copim@hcommons.social](https://hcommons.social/@copim)
@@ -20,3 +11,12 @@ Follow us on social media:
 [@openbookcollect@mastodon.social](https://mastodon.social/@openbookcollect)
 
 [@Thoth_metadata@hcommons.social](https://hcommons.social/@Thoth_metadata)
+
+
+### X
+
+[@Copim_community](https://twitter.com/Copim_community)
+
+[@OpenBookCollect](https://twitter.com/OpenBookCollect)
+
+[@Thoth_metadata](https://twitter.com/Thoth_metadata)

@@ -2326,9 +2326,9 @@ a {
     width:188px;
     max-width:188px;
     border-radius:2px;
-    box-shadow:0 0 0 1px rgba(0,0,0,.1),0 2px 8px rgba(0,0,0,.2);
+    /*box-shadow:0 0 0 1px rgba(0,0,0,.1),0 2px 8px rgba(0,0,0,.2);*/
     box-sizing:border-box;
-    background:rgba(255,255,255,.8);
+    /*background:rgba(255,255,255,.8);*/
     font-size:28px;
     vertical-align:middle;
     text-align:center;
@@ -2357,7 +2357,7 @@ a {
     /*font-size: 1.25rem;*/
   }
   .logo{
-    max-width:170;
+    max-width:170px;
     max-height:100px;
     width:auto;
     height:auto

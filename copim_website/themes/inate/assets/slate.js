@@ -1650,8 +1650,8 @@ var getUrlParts = function(t) {
     },
     renderImgTile = function(t) {
         t.innerHTML = "";
-        var e = t.getAttribute("data-bg-color");
-        e || (e = "rgba(255,255,255,.8)"), e = Color(e), e.setAlpha(.8), t.style.backgroundColor = e;
+        //var e = t.getAttribute("data-bg-color");
+        //e || (e = "rgba(255,255,255,.8)"), e = Color(e), e.setAlpha(.8), t.style.backgroundColor = e;
         var i = new Image;
         i.src = t.getAttribute("data-img"), i.className = "logo", t.appendChild(i)
     },

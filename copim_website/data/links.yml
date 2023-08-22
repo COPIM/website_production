@@ -39,6 +39,7 @@ tiles:
 - 
   name: "Copim PubPub"
   url: "https://copim.pubpub.org/"
+  img: "logos/pubpub.png"
   bg_color: "#98C8FF"
   txt_color: "#000000"
   tags: ["documentation"]
@@ -49,20 +50,9 @@ tiles:
   txt_color: "#ffffff"
   tags: ["toolkits"]
 -
-  name: "Twitter"
-  url: "https://twitter.com/copimproject"
-  bg_color: "#188CD8"
-  txt_color: "#ffffff"
-  tags: ["socials"]
--
-  name: "Mastodon"
-  url: "https://hcommons.social/@copim"
-  bg_color: "#BFCDD9"
-  txt_color: "#ffffff"
-  tags: ["socials"]
--
   name: "Wikipedia"
   url: "https://en.wikipedia.org/wiki/COPIM"
+  img: "logos/Wikipedia.svg"
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["socials"]
@@ -80,3 +70,45 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["documentation", "software"]
+-
+  name: "@copim"
+  url: "https://hcommons.social/@copim"
+  img: "logos/mastodon.svg"
+  bg_color: "#2F0C7A"
+  txt_color: "#ffffff"
+  tags: ["socials"]
+-
+  name: "@openbookcollect"
+  url: "https://mastodon.social/@openbookcollect"
+  img: "logos/mastodon.svg"
+  bg_color: "#2F0C7A"
+  txt_color: "#ffffff"
+  tags: ["socials"]
+-
+  name: "@Thoth_metadata"
+  url: "https://hcommons.social/@Thoth_metadata"
+  img: "logos/mastodon.svg"
+  bg_color: "#2F0C7A"
+  txt_color: "#ffffff"
+  tags: ["socials"]
+-
+  name: "@copim_community"
+  url: "https://twitter.com/Copim_community"
+  img: "logos/x-white.png"
+  bg_color: "#272C30"
+  txt_color: "#ffffff"
+  tags: ["socials"]
+-
+  name: "@OpenBookCollect"
+  url: "https://twitter.com/OpenBookCollect"
+  img: "logos/x-white.png"
+  bg_color: "#272C30"
+  txt_color: "#ffffff"
+  tags: ["socials"]
+-
+  name: "@Thoth_metadata"
+  url: "https://twitter.com/Thoth_metadata"
+  img: "logos/x-white.png"
+  bg_color: "#272C30"
+  txt_color: "#ffffff"
+  tags: ["socials"]
