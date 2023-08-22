@@ -1,3 +1,7 @@
+*, *::before, *::after {
+  box-sizing: initial;
+}
+
 a {
     color: #EB7F1D;
 }
@@ -2318,7 +2322,7 @@ a {
     padding:8px;
     -webkit-flex:0 0 188px;
     flex:0 0 188px;
-    transition:top .3s,left .3s,opacity .3s
+    transition:top .3s,left .3s,opacity .3s;
   }
   .tile-box{
     height:120px;
@@ -2340,7 +2344,7 @@ a {
   }
   .tile-title{
     display:block;
-    /*width:188px;*/
+    width:188px;
     background-color:transparent;
     box-sizing:border-box;
     color:#000;
@@ -2357,6 +2361,7 @@ a {
     /*font-size: 1.25rem;*/
   }
   .logo{
+    vertical-align: middle;
     max-width:170px;
     max-height:100px;
     width:auto;
