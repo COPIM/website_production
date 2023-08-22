@@ -1588,11 +1588,21 @@ var Color = tinycolor,
         shuffle.filter(location.hash.slice(1))
     };
     displaySection = function(t) {
-        const divSection = document.getElementById(hash);
-        divSection.style.display = divSection.style.display === "none" ? "block" : "none";
-    }
+        const sections = document.querySelectorAll(".section");
+        // Hide all other sections
+        sections.forEach(section => {
+          section.style.display = "none";
+        });
+      
+        // Toggle the targeted section's visibility
+        const targetSection = document.getElementById(location.hash.slice(1));
+        targetSection.style.display = targetSection.style.display === "none" ? "block" : "none";
+    };
 
-window.onhashchange = filterTiles + displaySection;
+window.onhashchange = function() {
+    filterTiles();
+    displaySection();
+};
 
 var getUrlParts = function(t) {
         var e = {
@@ -1609,15 +1619,30 @@ var getUrlParts = function(t) {
     },
     fitText = function(t, e, i) {
         var n = document.createElement("div");
-        n.style.visibility = "hidden", n.style.position = "absolute", document.body.appendChild(n);
+        n.style.visibility = "hidden";
+        n.style.position = "absolute";
+        n.style.width = e + "px";
+        n.style.height = i + "px";
+        n.style.overflow = "hidden";
+        document.body.appendChild(n);
+    
         var r = 40;
-        for (n.innerHTML = t, n.style.fontSize = r; n.offsetWidth > e;) r -= 1, n.style.fontSize = r;
+        n.style.fontSize = r + "px"; // Make sure to include "px" unit
+    
+        n.innerHTML = t;
+    
+        while (r > 0 && (n.scrollWidth > e || n.scrollHeight > i)) {
+            r -= 1;
+            n.style.fontSize = r + "px";
+        }
+    
         var s = {
             size: r,
-            width: n.offsetWidth,
-            height: n.offsetHeight
+            width: n.scrollWidth,
+            height: n.scrollHeight
         };
-        return n.remove(), s
+    
+        return n.remove(), s;
     },
     getTileColor = function(t) {
         var e = ["#B42424", "#C83D1D", "#BB7231", "#E06B00", "#55931F", "#1C941B", "#189365", "#189196", "#2D85A4", "#2B6C90", "#205396", "#39448F", "#55338E", "#683089", "#963A97", "#A43343", "#982F2F", "#D30000", "#E54C29", "#DA7E2C", "#73B43A", "#3AB43A", "#3AB487", "#3AB0B4", "#47A6C7", "#3A88B4", "#3A6FB4", "#3A4AB4", "#673AB4", "#863AB4", "#C846C9", "#C44A5B", "#AA4444", "#E84545", "#FF6946", "#EC9344", "#3CA4DF", "#3A83E3", "#4056E3", "#9058F0", "#B467E2", "#DF7CDF", "#E5576B", "#D35A5A", "#3DC53D", "#2DBBB1", "#5E95D5", "#5E5BE7", "#1B7EFF", "#5F74FF", "#8A45FF", "#B856F3", "#DD66DD"];
@@ -1637,13 +1662,16 @@ var getUrlParts = function(t) {
         i || (i = "rgba(255,255,255,.8)"), i = Color(i), i.setAlpha(.8), t.style.backgroundColor = i;
         var n = t.getAttribute("data-txt-color");
         n || (n = getTileColor(e.domain), i.isDark() && (t.style.color = "white")), n = Color(n), t.style.color = n;
-        var r = fitText(e.domain, 172, 120),
+        var r = fitText(t.getAttribute("data-title"), 172, 120),
             s = document.createElement("div");
-        s.style.fontSize = r.size, s.style.position = "absolute", t.appendChild(s);
-        var o = document.createElement("div");
-        o.innerHTML = e.before, o.style.top = .35 * r.size - 10, o.className = "pre-domain", o.style.textShadow = "-1px 0 " + i + ",0 1px " + i + ",1px 0 " + i + ",0 -1px " + i;
+        s.style.fontSize = r.size + "px"; // Include the "px" unit
+        t.appendChild(s);
         var a = document.createElement("div");
-        a.innerHTML = e.after, a.style.top = r.size - .05 * r.size, a.className = "post-domain", a.style.textShadow = "-1px 0 " + i + ",0 1px " + i + ",1px 0 " + i + ",0 -1px " + i, s.appendChild(o), s.appendChild(document.createTextNode(e.domain)), s.appendChild(a);
+        a.innerHTML = s.appendChild(document.createTextNode(t.getAttribute("data-title")));
+        //var o = document.createElement("div");
+        //o.innerHTML = e.before, o.style.top = .35 * r.size - 10, o.className = "pre-domain", o.style.textShadow = "-1px 0 " + i + ",0 1px " + i + ",1px 0 " + i + ",0 -1px " + i;
+        //var a = document.createElement("div");
+        //a.innerHTML = e.after, a.style.top = r.size - .05 * r.size, a.className = "post-domain", a.style.textShadow = "-1px 0 " + i + ",0 1px " + i + ",1px 0 " + i + ",0 -1px " + i, s.appendChild(o), s.appendChild(document.createTextNode(t.getAttribute("data-title"))), s.appendChild(a);
         var l = 64 - s.clientHeight / 2,
             u = 106 - s.clientWidth / 2;
         s.style.top = l, s.style.left = u

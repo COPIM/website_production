@@ -2340,7 +2340,7 @@ a {
   }
   .tile-title{
     display:block;
-    /* width:188px; */
+    /*width:188px;*/
     background-color:transparent;
     box-sizing:border-box;
     color:#000;
@@ -2352,7 +2352,9 @@ a {
     text-align:center;
     text-overflow:ellipsis;
     transition:color .3s;
-    white-space:nowrap
+    white-space:nowrap; 
+    font-weight: bold;
+    /*font-size: 1.25rem;*/
   }
   .logo{
     max-width:170;
@@ -2486,4 +2488,8 @@ a {
     margin-left: auto;
     margin-right: auto;
   }
+
+#footer {
+  padding: 3rem 1.5rem;
+}
   
