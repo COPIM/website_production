@@ -1,0 +1,36 @@
+<section id="all" class="hero is-{{ .Site.Params.home.introHeight | default "fullheight" }}">
+    <!-- Hero head section to play nice with Bulma -->
+    <div class="hero-head"></div>
+
+    <!-- Super sweet Hero body title -->
+    <div class="hero-body">
+        <div class="has-text-centered">
+            <!-- Title and tagline -->
+            <img class="logo-image {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in one{{ end }}" src="/logos/copim-logo.png" alt="{{ .Title | markdownify }}">
+            <!-- <h1 class="bold-title {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in one{{ end }}">
+                {{ .Title | markdownify }}
+            </h1> -->
+            <div class="subtitle is-5 {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in one{{ end }}">
+                {{ .Content }}
+            </div>
+            <!-- End title and tagline -->
+            <!-- Some social icons -->
+            <!--<div class="{{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in three{{ end }}">
+                {{ partial "home/social.html" . }}
+            </div>-->
+            <!-- End top social icons -->
+            {{ range $.Site.Home.AllTranslations.ByWeight }}
+                {{ if ne .Language.LanguageName $.Language.LanguageName }}
+                    <a class="languages-link fade-in two" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                {{ end }}
+            {{ end }}
+            <div class="language-menu-btn">
+                <div class="language-menu-btn__burger"></div>
+            </div>
+        </div>
+    </div> <!-- End of Hero body -->
+
+    <div class="hero-foot {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in two{{ end }}">
+        <!-- Tell them all about it! -->
+    </div>
+</section> <!-- Done with Hero -->

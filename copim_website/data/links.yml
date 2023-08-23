@@ -2,18 +2,18 @@ tiles:
 -
   name: "Open Book Collective"
   url: "https://openbookcollective.org/"
-  img: "logos/obc.png"
+  img: "/logos/obc.png"
   tags: ["organisations"]
 -
   name: "Opening the Future"
   url: "https://www.openingthefuture.net/"
-  img: "logos/obf.png"
+  img: "/logos/obf.png"
   txt_color: "#ffffff"
   tags: ["organisations"]
 -
   name: "Thoth"
   url: "https://thoth.pub/"
-  img: "logos/thoth.png"
+  img: "/logos/thoth.png"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
   tags: ["organisations", "software"]
@@ -26,21 +26,15 @@ tiles:
 -
   name: "Copim"
   url: "https://archive.copim.ac.uk"
-  img: "logos/copim-logo.png"
+  img: "/logos/copim-logo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["projects"]
--
-  name: "Experimental Publishing Compendium"
-  url: "https://compendium.copim.ac.uk/"
-  bg_color: "#B398FF"
-  txt_color: "#ffffff"
-  tags: ["toolkits", "software"]
 - 
-  name: "Copim PubPub"
+  name: "PubPub"
   url: "https://copim.pubpub.org/"
-  img: "logos/pubpub.png"
-  bg_color: "#98C8FF"
+  img: "/logos/pubpub.png"
+  #bg_color: "#98C8FF"
   txt_color: "#000000"
   tags: ["documentation"]
 -
@@ -50,65 +44,71 @@ tiles:
   txt_color: "#ffffff"
   tags: ["toolkits"]
 -
+  name: "Experimental Publishing Compendium"
+  url: "https://compendium.copim.ac.uk/"
+  bg_color: "#B398FF"
+  txt_color: "#ffffff"
+  tags: ["toolkits", "software"]
+-
   name: "Wikipedia"
   url: "https://en.wikipedia.org/wiki/COPIM"
-  img: "logos/Wikipedia.svg"
+  img: "/logos/Wikipedia.svg"
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["socials"]
 -
   name: "Zenodo"
   url: "https://zenodo.org/communities/copim/"
-  img: "logos/zenodo.svg"
+  img: "/logos/zenodo.svg"
   bg_color: "#004BAB"
   txt_color: "#ffffff"
   tags: ["documentation"]
 -
   name: "GitHub"
   url: "https://github.com/COPIM"
-  img: "logos/GitHub_Logo.png"
+  img: "/logos/GitHub_Logo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["documentation", "software"]
 -
   name: "@copim"
   url: "https://hcommons.social/@copim"
-  img: "logos/mastodon.svg"
-  bg_color: "#2F0C7A"
+  img: "/logos/mastodon.svg"
+  #bg_color: "#2F0C7A"
   txt_color: "#ffffff"
   tags: ["socials"]
 -
   name: "@openbookcollect"
   url: "https://mastodon.social/@openbookcollect"
-  img: "logos/mastodon.svg"
-  bg_color: "#2F0C7A"
+  img: "/logos/mastodon.svg"
+  #bg_color: "#2F0C7A"
   txt_color: "#ffffff"
   tags: ["socials"]
 -
   name: "@Thoth_metadata"
   url: "https://hcommons.social/@Thoth_metadata"
-  img: "logos/mastodon.svg"
-  bg_color: "#2F0C7A"
+  img: "/logos/mastodon.svg"
+  #bg_color: "#2F0C7A"
   txt_color: "#ffffff"
   tags: ["socials"]
 -
   name: "@copim_community"
   url: "https://twitter.com/Copim_community"
-  img: "logos/x-white.png"
-  bg_color: "#272C30"
+  img: "/logos/x-black.png"
+  #bg_color: "#272C30"
   txt_color: "#ffffff"
   tags: ["socials"]
 -
   name: "@OpenBookCollect"
   url: "https://twitter.com/OpenBookCollect"
-  img: "logos/x-white.png"
-  bg_color: "#272C30"
+  img: "/logos/x-black.png"
+  #bg_color: "#272C30"
   txt_color: "#ffffff"
   tags: ["socials"]
 -
   name: "@Thoth_metadata"
   url: "https://twitter.com/Thoth_metadata"
-  img: "logos/x-white.png"
-  bg_color: "#272C30"
+  img: "/logos/x-black.png"
+  #bg_color: "#272C30"
   txt_color: "#ffffff"
   tags: ["socials"]

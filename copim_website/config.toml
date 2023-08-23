@@ -160,10 +160,10 @@ icon = "users"
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
-        title            = "Introducción"
+        title            = "Copim"
         [languages.es.params]
-            description  = "Descripcion del sitio web"
-            # footerText   = ""
+            description  = "Copim es una asociación internacional de investigadores, universidades, bibliotecarios, editores de libros de acceso abierto y proveedores de infraestructura. Está construyendo sistemas e infraestructuras de propiedad de la comunidad para que pueda prosperar la publicación de libros de acceso abierto."
+            footerText   = "© 2023 Copim and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
 
     #[languages.de]
     #    languageName     = "Deutsch"

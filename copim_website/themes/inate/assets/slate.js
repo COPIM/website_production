@@ -1699,3 +1699,15 @@ var getBackgroundImages = function() {
         e.length > 0 && (t = (t + 1) % e.length, document.body.style.background = 'url("' + e[t] + '")', document.body.style.backgroundSize = "cover", e.length > 1 && setTimeout(rotateBackground.bind(null, t), 3e4))
     };
 preloadBackgrounds(), rotateBackground();
+
+const menuBtn = document.querySelector('.language-menu-btn');
+let menuOpen = false;
+menuBtn.addEventListener('click', () => {
+  if(!menuOpen) {
+    menuBtn.classList.add('open');
+    menuOpen = true;
+  } else {
+    menuBtn.classList.remove('open');
+    menuOpen = false;
+  }
+});

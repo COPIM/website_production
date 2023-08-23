@@ -1,4 +1,4 @@
-<div class="nav-panel">
+<div class="nav-panel {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in two{{ end }}">
     <nav>
         <ul>
             <li class="tag"><a data-tooltip="all" href="#"><i class="icon fa fa-th" aria-hidden="true"></i></a></li>

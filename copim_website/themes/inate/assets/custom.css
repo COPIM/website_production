@@ -24,10 +24,88 @@ a {
     list-style-position: inside;
 }
 
+.section {
+  padding: none;
+}
+
+.languages-link {
+  text-transform: uppercase;
+  color: #4a4a4a;
+}
+
+a.languages-link:focus, a.langauges-link:focus-within, a.languages-link:hover, a.languages-link.is-active, .languages-link:focus, .languages-link:focus-within, .languages-link:hover, .languages-link.is-active {
+  background-color: #fff;
+  color: #dbdbdb;
+}
+
+.language-menu-btn {
+  position: fixed;
+  top: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  transition: all .5s ease-in-out;
+  /* border: 3px solid #fff; */
+}
+.language-menu-btn__burger {
+  width: 50px;
+  height: 6px;
+  display: flex;
+  background: #EA7E1D;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(255,101,47,.2);
+  transition: all .5s ease-in-out;
+}
+.language-menu-btn__burger::before,
+.language-menu-btn__burger::after {
+  content: '';
+  position: absolute;
+  width: 50px;
+  height: 6px;
+  background: #EA7E1D;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(255,101,47,.2);
+  transition: all .5s ease-in-out;
+}
+.language-menu-btn__burger::before {
+  transform: translateY(-16px);
+}
+.language-menu-btn__burger::after {
+  transform: translateY(16px);
+}
+/* ANIMATION */
+.language-menu-btn.open .language-menu-btn__burger {
+  transform: translateX(-50px);
+  background: transparent;
+  box-shadow: none;
+}
+.language-menu-btn.open .language-menu-btn__burger::before {
+  transform: rotate(45deg) translate(35px, -35px);
+}
+.language-menu-btn.open .language-menu-btn__burger::after {
+  transform: rotate(-45deg) translate(35px, 35px);
+}
+
 @media screen and (min-width: 769px),print {
     .hero.is-medium .hero-body {
-        padding: 1rem 1.5rem;
+        padding: 1rem 0 1rem 0;
     }
+}
+
+@media screen and (max-width: 480px),print {
+  .logo-image {
+    height: 20vw;
+  }
+  .hero.is-medium .hero-body {
+    padding: 1rem 3.125rem;
+  }
+  .title {
+    font-size: 2rem;
+  }
 }
 
 /*! * Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome * License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License) */
@@ -2236,13 +2314,25 @@ a {
     overflow:visible;
     clip:auto
   }
+  body{
+    user-select:none;
+    margin:0;
+    padding:0;
+    /*font-family:Exo,sans-serif;
+    font-weight:700;
+    background-color:#657383;*/
+    margin-left:50px;
+    color:#000;
+    /*background-image:radial-gradient(ellipse farthest-side at center top,#fcfcfc 0,#657383 100%)*/
+  }
   .container{
     box-sizing:border-box;
     min-height:10px;
-    padding:0 0;
+    padding:0 3.125rem;
     position:relative;
     text-align:center;
-    justify-content:center
+    justify-content:center;
+    max-width:unset;
   }
   .tile-container{
     display:-webkit-flex;
@@ -2319,7 +2409,7 @@ a {
   .tile{
     width:188px;
     max-width:188px;
-    padding:8px;
+    /*padding:8px;*/
     -webkit-flex:0 0 188px;
     flex:0 0 188px;
     transition:top .3s,left .3s,opacity .3s;
@@ -2375,7 +2465,7 @@ a {
     top:0;
     transition:all .8s ease-in-out;
     transition-delay:1s;
-    width:50px
+    width:50px;
   }
   .nav-panel:hover{
     background:#F8D9AA;
