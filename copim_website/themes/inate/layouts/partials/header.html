@@ -19,14 +19,22 @@
                 {{ partial "home/social.html" . }}
             </div>-->
             <!-- End top social icons -->
-            {{ range $.Site.Home.AllTranslations.ByWeight }}
-                {{ if ne .Language.LanguageName $.Language.LanguageName }}
-                    <a class="languages-link fade-in two" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-                {{ end }}
-            {{ end }}
-            <div class="language-menu-btn">
-                <div class="language-menu-btn__burger"></div>
-            </div>
+            <div class="language-nav nav-wrapper fade-in two">
+                <div class="sl-nav">
+                  <ul>
+                    <li><b>Language</b> <i class="fa fa-angle-down" aria-hidden="true"></i>
+                      <div class="triangle"></div>
+                      <ul>
+                        {{ range $.Site.Home.AllTranslations.ByWeight }}
+                            {{ if ne .Language.LanguageName $.Language.LanguageName }}
+                                <li><a class="languages-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                            {{ end }}
+                        {{ end }}
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
         </div>
     </div> <!-- End of Hero body -->
 

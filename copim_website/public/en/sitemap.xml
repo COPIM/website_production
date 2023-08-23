@@ -10,17 +10,45 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1337/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1337/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="http://localhost:1337/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-GB"
                 href="http://localhost:1337/"
                 />
-  </url><url>
-    <loc>http://localhost:1337/es/</loc>
   </url><url>
     <loc>http://localhost:1337/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1337/es/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1337/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1337/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="http://localhost:1337/eo/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -33,6 +61,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1337/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1337/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1337/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="http://localhost:1337/eo/tags/"
                 />
     <xhtml:link
                 rel="alternate"

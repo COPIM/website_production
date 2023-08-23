@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1337/es/</loc>
+    <loc>http://localhost:1337/eo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1337/es/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,21 +20,21 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="http://localhost:1337/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-GB"
                 href="http://localhost:1337/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://localhost:1337/es/"
+                hreflang="eo"
+                href="http://localhost:1337/eo/"
                 />
   </url><url>
-    <loc>http://localhost:1337/es/series/</loc>
+    <loc>http://localhost:1337/eo/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1337/es/series/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -42,21 +47,21 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="http://localhost:1337/eo/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-GB"
                 href="http://localhost:1337/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://localhost:1337/es/series/"
+                hreflang="eo"
+                href="http://localhost:1337/eo/series/"
                 />
   </url><url>
-    <loc>http://localhost:1337/es/tags/</loc>
+    <loc>http://localhost:1337/eo/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1337/es/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -69,18 +74,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="http://localhost:1337/eo/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-GB"
                 href="http://localhost:1337/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://localhost:1337/es/tags/"
+                hreflang="eo"
+                href="http://localhost:1337/eo/tags/"
                 />
   </url>
 </urlset>

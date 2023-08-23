@@ -11,4 +11,19 @@
     
   </sitemap>
   
+  <sitemap>
+    <loc>http://localhost:1337/de/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1337/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1337/eo/sitemap.xml</loc>
+    
+  </sitemap>
+  
 </sitemapindex>

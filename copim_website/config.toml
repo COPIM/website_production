@@ -156,7 +156,7 @@ icon = "users"
             footerText   = "© 2023 Copim and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."                      # Text to override default footer text (markdown allowed)
 
     [languages.es]
-        languageName     = "Español"
+        languageName     = "español"
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
@@ -165,13 +165,32 @@ icon = "users"
             description  = "Copim es una asociación internacional de investigadores, universidades, bibliotecarios, editores de libros de acceso abierto y proveedores de infraestructura. Está construyendo sistemas e infraestructuras de propiedad de la comunidad para que pueda prosperar la publicación de libros de acceso abierto."
             footerText   = "© 2023 Copim and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
 
-    #[languages.de]
-    #    languageName     = "Deutsch"
-    #    languageCode     = "de"
-    #    contentDir       = "content/de"
-    #    weight           = 2
-    #    title            = "Vorstellung"
-    #    [languages.de.params]
-    #        dateFormat   = "2. January 2006"
-    #        description  = "Beschreibung der Webseite"
-    #        # footerText   = ""
+    [languages.de]
+        languageName     = "Deutsch"
+        languageCode     = "de"
+        contentDir       = "content/de"
+        weight           = 2
+        title            = "Copim"
+        [languages.de.params]
+            description  = "Copim ist eine internationale Partnerschaft von Forschern, Universitäten, Bibliothekaren, Open-Access-Buch-Verlag und Infrastrukturanbietern. Es baut gemeinschaftseigene, offene Systeme und Infrastrukturen auf, um Open-Access-Book-Publishing zu blühen."
+            footerText   = "© 2023 Copim und lizenziert unter einer [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
+
+    [languages.fr]
+        languageName     = "français"
+        languageCode     = "fr"
+        contentDir       = "content/fr"
+        weight           = 3
+        title            = "Copim"
+        [languages.fr.params]
+            description  = "Copim est un partenariat international de chercheurs, d'universités, de bibliothécaires, d'éditeurs de livres d'accès ouvert et de fournisseurs d'infrastructure. Il construit des systèmes et des infrastructures communautaires et ouverts pour permettre à la publication de livres d'accès ouvert de prospérer."
+            footerText   = "© 2023 Copim et sous licence [Créative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
+
+    [languages.eo]
+        languageName     = "esperanto"
+        languageCode     = "eo"
+        contentDir       = "content/eo"
+        weight           = 4
+        title            = "Copim"
+        [languages.eo.params]
+            description  = "Copim estas internacia partnereco de esploristoj, universitatoj, bibliotekistoj, malfermaj alirlibroeldonistoj kaj infrastrukturprovizantoj. Ĝi konstruas komunum-posedatajn, malfermajn sistemojn kaj infrastrukturojn por ebligi senkaŝan alirlibroeldonadon por prosperi."
+            footerText   = "© 2023 Copim kaj licencita sub [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."
