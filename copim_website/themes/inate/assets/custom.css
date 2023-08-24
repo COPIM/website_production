@@ -38,10 +38,11 @@ a.languages-link:focus, a.langauges-link:focus-within, a.languages-link:hover, a
 }
 
 .nav-wrapper {
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   text-align: center;
+  z-index: 6;
 }
 
 .language-nav {

@@ -42,6 +42,7 @@ a.languages-link:focus, a.langauges-link:focus-within, a.languages-link:hover, a
   top: 0;
   right: 0;
   text-align: center;
+  z-index: 6;
 }
 
 .language-nav {

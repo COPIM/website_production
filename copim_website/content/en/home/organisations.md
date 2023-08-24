@@ -15,7 +15,7 @@ Building on library journal subscription models and successful book membership p
 
 ### ![Thoth](/logos/thoth.png)
 
-**[Thoth](https://thoth.pub/)**  is an open metadata management and dissemination platform. As an organisation, we are focused on:
+**[Thoth](https://thoth.pub/)** is an open metadata management and dissemination platform. As an organisation, we are focused on:
 
 * creation, curation, and dissemination of high-quality metadata records which are essential for the advancement of public knowledge;
 * promoting openness in scholarly communications such as open access, open licensing, FLOSS, open data, open metadata, and open standards and protocols;
