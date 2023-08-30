@@ -2491,14 +2491,15 @@ background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC6
     display:block;
     height:32px;
     line-height:16px;
-    overflow:hidden;
-    padding:8px;
+    /*overflow:hidden;*/
+    padding:0 0 12px 0;
     text-align:center;
     text-overflow:ellipsis;
     transition:color .3s;
-    white-space:nowrap; 
-    font-weight: bold;
-    /*font-size: 1.25rem;*/
+    /*white-space:nowrap;*/
+    /*font-weight: bold;*/
+    font-size: 1.1rem;
+    font-style: italic;
   }
   .logo{
     vertical-align: middle;

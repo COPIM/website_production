@@ -1,17 +1,20 @@
 tiles:
 -
   name: "Open Book Collective"
+  subtitle: "An open publishing organisation"
   url: "https://openbookcollective.org/"
   img: "/logos/obc.png"
   tags: ["organisations"]
 -
   name: "Opening the Future"
+  subtitle: "A new model for open access books"
   url: "https://www.openingthefuture.net/"
   img: "/logos/obf.png"
   txt_color: "#ffffff"
   tags: ["organisations"]
 -
   name: "Thoth"
+  subtitle: "An open metadata platform"
   url: "https://thoth.pub/"
   img: "/logos/thoth.png"
   bg_color: "#ffffff"
@@ -19,12 +22,14 @@ tiles:
   tags: ["organisations", "software"]
 -
   name: "Open Book Futures"
+  subtitle: "A 3-year research project"
   url: "https://openbookfutures.copim.ac.uk"
   bg_color: "#EA7F1D"
   txt_color: "#ffffff"
   tags: ["projects"]
 -
   name: "Copim"
+  subtitle: "The initial research project"
   url: "https://archive.copim.ac.uk"
   img: "/logos/copim-logo.png"
   bg_color: "#ffffff"
@@ -32,6 +37,7 @@ tiles:
   tags: ["projects"]
 - 
   name: "PubPub"
+  subtitle: "Our PubPub open documentation site"
   url: "https://copim.pubpub.org/"
   img: "/logos/pubpub.png"
   #bg_color: "#98C8FF"
@@ -39,18 +45,21 @@ tiles:
   tags: ["documentation"]
 -
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
+  subtitle: "Resources for setting up an OA press"
   url: "https://bookstack.openbookcollective.org/"
   bg_color: "#EA1484"
   txt_color: "#ffffff"
   tags: ["toolkits"]
 -
   name: "Experimental Publishing Compendium"
+  subtitle: "A guide to experimental publishing"
   url: "https://compendium.copim.ac.uk/"
   bg_color: "#B398FF"
   txt_color: "#ffffff"
   tags: ["toolkits", "software"]
 -
   name: "Wikipedia"
+  subtitle: "Copim's Wikipedia page"
   url: "https://en.wikipedia.org/wiki/COPIM"
   img: "/logos/Wikipedia.svg"
   bg_color: "#ffffff"
@@ -58,6 +67,7 @@ tiles:
   tags: ["socials"]
 -
   name: "Zenodo"
+  subtitle: "A hub for official outputs"
   url: "https://zenodo.org/communities/copim/"
   img: "/logos/zenodo.svg"
   bg_color: "#004BAB"
@@ -65,6 +75,7 @@ tiles:
   tags: ["documentation"]
 -
   name: "GitHub"
+  subtitle: "Repositories for our software"
   url: "https://github.com/COPIM"
   img: "/logos/GitHub_Logo.png"
   bg_color: "#ffffff"
@@ -72,6 +83,7 @@ tiles:
   tags: ["documentation", "software"]
 -
   name: "@copim"
+  subtitle: "Copim on Mastodon"
   url: "https://hcommons.social/@copim"
   img: "/logos/mastodon.svg"
   #bg_color: "#2F0C7A"
@@ -79,6 +91,7 @@ tiles:
   tags: ["socials"]
 -
   name: "@openbookcollect"
+  subtitle: "OBC on Mastodon"
   url: "https://mastodon.social/@openbookcollect"
   img: "/logos/mastodon.svg"
   #bg_color: "#2F0C7A"
@@ -86,6 +99,7 @@ tiles:
   tags: ["socials"]
 -
   name: "@Thoth_metadata"
+  subtitle: "Thoth on Mastodon"
   url: "https://hcommons.social/@Thoth_metadata"
   img: "/logos/mastodon.svg"
   #bg_color: "#2F0C7A"
@@ -93,6 +107,7 @@ tiles:
   tags: ["socials"]
 -
   name: "@copim_community"
+  subtitle: "Copim on X"
   url: "https://twitter.com/Copim_community"
   img: "/logos/x-black.png"
   #bg_color: "#272C30"
@@ -100,6 +115,7 @@ tiles:
   tags: ["socials"]
 -
   name: "@OpenBookCollect"
+  subtitle: "OBC on X"
   url: "https://twitter.com/OpenBookCollect"
   img: "/logos/x-black.png"
   #bg_color: "#272C30"
@@ -107,6 +123,7 @@ tiles:
   tags: ["socials"]
 -
   name: "@Thoth_metadata"
+  subtitle: "Thoth on X"
   url: "https://twitter.com/Thoth_metadata"
   img: "/logos/x-black.png"
   #bg_color: "#272C30"
