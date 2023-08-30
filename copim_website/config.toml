@@ -54,7 +54,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [[params.social]]
         url   = "https://twitter.com/copimproject"
         icon  = "twitter" # icon name without the 'fa-'
-        icon_pack = "fab"
+        icon_pack = "x"
     #[[params.social]]
     #    url   = "https://facebook.com/"
     #    icon  = "facebook-f" # icon name without the 'fa-'
