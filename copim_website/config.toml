@@ -107,7 +107,7 @@ tag = "software"
 icon = "code"
 
 [[ params.nav ]]
-name = "social media"
+name = "socials"
 tag = "socials"
 icon = "users"
 
