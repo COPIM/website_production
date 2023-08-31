@@ -30,7 +30,7 @@ tiles:
 -
   name: "Copim"
   subtitle: "The initial research project"
-  url: "https://archive.copim.ac.uk"
+  url: "https://www.copim.ac.uk"
   img: "/logos/copim-logo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
