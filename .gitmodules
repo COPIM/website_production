@@ -1,0 +1,3 @@
+[submodule "copim_website/themes/inate-hugo"]
+	path = copim_website/themes/inate-hugo
+	url = https://github.com/COPIM/inate-hugo.git

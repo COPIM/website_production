@@ -1,5 +1,5 @@
 baseURL                          = "http://localhost:1337"   # Your domain name. Must end with "/"
-theme                            = "inate"
+theme                            = "inate-hugo"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 
 [params]
