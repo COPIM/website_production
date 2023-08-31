@@ -19,7 +19,7 @@ tiles:
   img: "/logos/thoth.png"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
-  tags: ["organisations", "software"]
+  tags: ["organisations"]
 -
   name: "Open Book Futures"
   subtitle: "A 3-year research project"
@@ -57,14 +57,14 @@ tiles:
   bg_color: "#B398FF"
   txt_color: "#ffffff"
   tags: ["toolkits", "software"]
--
-  name: "Wikipedia"
-  subtitle: "Copim's Wikipedia page"
-  url: "https://en.wikipedia.org/wiki/COPIM"
-  img: "/logos/Wikipedia.svg"
-  bg_color: "#ffffff"
-  txt_color: "#000000"
-  tags: ["socials"]
+# -
+#   name: "Wikipedia"
+#   subtitle: "Copim's Wikipedia page"
+#   url: "https://en.wikipedia.org/wiki/COPIM"
+#   img: "/logos/Wikipedia.svg"
+#   bg_color: "#ffffff"
+#   txt_color: "#000000"
+#   tags: ["socials"]
 -
   name: "Zenodo"
   subtitle: "A hub for official outputs"
@@ -81,51 +81,51 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["documentation", "software"]
--
-  name: "@copim"
-  subtitle: "Copim on Mastodon"
-  url: "https://hcommons.social/@copim"
-  img: "/logos/mastodon.svg"
-  #bg_color: "#2F0C7A"
-  txt_color: "#ffffff"
-  tags: ["socials"]
--
-  name: "@openbookcollect"
-  subtitle: "OBC on Mastodon"
-  url: "https://mastodon.social/@openbookcollect"
-  img: "/logos/mastodon.svg"
-  #bg_color: "#2F0C7A"
-  txt_color: "#ffffff"
-  tags: ["socials"]
--
-  name: "@Thoth_metadata"
-  subtitle: "Thoth on Mastodon"
-  url: "https://hcommons.social/@Thoth_metadata"
-  img: "/logos/mastodon.svg"
-  #bg_color: "#2F0C7A"
-  txt_color: "#ffffff"
-  tags: ["socials"]
--
-  name: "@copim_community"
-  subtitle: "Copim on X"
-  url: "https://twitter.com/Copim_community"
-  img: "/logos/x-black.png"
-  #bg_color: "#272C30"
-  txt_color: "#ffffff"
-  tags: ["socials"]
--
-  name: "@OpenBookCollect"
-  subtitle: "OBC on X"
-  url: "https://twitter.com/OpenBookCollect"
-  img: "/logos/x-black.png"
-  #bg_color: "#272C30"
-  txt_color: "#ffffff"
-  tags: ["socials"]
--
-  name: "@Thoth_metadata"
-  subtitle: "Thoth on X"
-  url: "https://twitter.com/Thoth_metadata"
-  img: "/logos/x-black.png"
-  #bg_color: "#272C30"
-  txt_color: "#ffffff"
-  tags: ["socials"]
+# -
+#   name: "@copim"
+#   subtitle: "Copim on Mastodon"
+#   url: "https://hcommons.social/@copim"
+#   img: "/logos/mastodon.svg"
+#   #bg_color: "#2F0C7A"
+#   txt_color: "#ffffff"
+#   tags: ["socials"]
+# -
+#   name: "@openbookcollect"
+#   subtitle: "OBC on Mastodon"
+#   url: "https://mastodon.social/@openbookcollect"
+#   img: "/logos/mastodon.svg"
+#   #bg_color: "#2F0C7A"
+#   txt_color: "#ffffff"
+#   tags: ["socials"]
+# -
+#   name: "@Thoth_metadata"
+#   subtitle: "Thoth on Mastodon"
+#   url: "https://hcommons.social/@Thoth_metadata"
+#   img: "/logos/mastodon.svg"
+#   #bg_color: "#2F0C7A"
+#   txt_color: "#ffffff"
+#   tags: ["socials"]
+# -
+#   name: "@copim_community"
+#   subtitle: "Copim on X"
+#   url: "https://twitter.com/Copim_community"
+#   img: "/logos/x-black.png"
+#   #bg_color: "#272C30"
+#   txt_color: "#ffffff"
+#   tags: ["socials"]
+# -
+#   name: "@OpenBookCollect"
+#   subtitle: "OBC on X"
+#   url: "https://twitter.com/OpenBookCollect"
+#   img: "/logos/x-black.png"
+#   #bg_color: "#272C30"
+#   txt_color: "#ffffff"
+#   tags: ["socials"]
+# -
+#   name: "@Thoth_metadata"
+#   subtitle: "Thoth on X"
+#   url: "https://twitter.com/Thoth_metadata"
+#   img: "/logos/x-black.png"
+#   #bg_color: "#272C30"
+#   txt_color: "#ffffff"
+#   tags: ["socials"]

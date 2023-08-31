@@ -1,5 +1,5 @@
 ---
-title: "Socials"
+title: "Social Media"
 ---
 
 Follow us on social media:
