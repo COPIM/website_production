@@ -92,6 +92,11 @@ tag = "organisations"
 icon = "sitemap"
 
 [[ params.nav ]]
+name = "models"
+tag = "models"
+icon = "object-group"
+
+[[ params.nav ]]
 name = "documentation"
 tag = "documentation"
 icon = "file-text"

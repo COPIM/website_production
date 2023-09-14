@@ -1,31 +1,11 @@
 tiles:
 -
-  name: "Open Book Collective"
-  subtitle: "An open publishing organisation"
-  url: "https://openbookcollective.org/"
-  img: "/logos/obc.png"
-  tags: ["organisations"]
--
-  name: "Opening the Future"
-  subtitle: "A new model for open access books"
-  url: "https://www.openingthefuture.net/"
-  img: "/logos/obf.png"
-  txt_color: "#ffffff"
-  tags: ["organisations"]
--
-  name: "Thoth"
-  subtitle: "An open metadata platform"
-  url: "https://thoth.pub/"
-  img: "/logos/thoth.png"
-  bg_color: "#ffffff"
-  txt_color: "#ff9900"
-  tags: ["organisations"]
--
   name: "Open Book Futures"
   subtitle: "A 3-year research project"
   url: "https://openbookfutures.copim.ac.uk"
   bg_color: "#EA7F1D"
   txt_color: "#ffffff"
+  tile_color: "#EA7F1D"
   tags: ["projects"]
 -
   name: "Copim"
@@ -34,21 +14,39 @@ tiles:
   img: "/logos/copim-logo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
+  tile_color: "#EA7F1D"
   tags: ["projects"]
-- 
-  name: "PubPub"
-  subtitle: "Our PubPub open documentation site"
-  url: "https://copim.pubpub.org/"
-  img: "/logos/pubpub.png"
-  #bg_color: "#98C8FF"
-  txt_color: "#000000"
-  tags: ["documentation"]
+-
+  name: "Open Book Collective"
+  subtitle: "An open publishing organisation"
+  url: "https://openbookcollective.org/"
+  img: "/logos/obc.png"
+  tile_color: "#D92B85"
+  tags: ["organisations"]
+-
+  name: "Thoth"
+  subtitle: "An open metadata platform"
+  url: "https://thoth.pub/"
+  img: "/logos/thoth.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tile_color: "#D92B85"
+  tags: ["organisations"]
+-
+  name: "Opening the Future"
+  subtitle: "A new model for open access books"
+  url: "https://www.openingthefuture.net/"
+  img: "/logos/obf.png"
+  txt_color: "#ffffff"
+  tile_color: "#3FA9F5"
+  tags: ["models"]
 -
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
   subtitle: "Resources for setting up an OA press"
   url: "https://bookstack.openbookcollective.org/"
-  bg_color: "#EA1484"
+  bg_color: "#2D3169"
   txt_color: "#ffffff"
+  tile_color: "#B398FF"
   tags: ["toolkits"]
 -
   name: "Experimental Publishing Compendium"
@@ -56,6 +54,7 @@ tiles:
   url: "https://compendium.copim.ac.uk/"
   bg_color: "#B398FF"
   txt_color: "#ffffff"
+  tile_color: "#B398FF"
   tags: ["toolkits", "software"]
 # -
 #   name: "Wikipedia"
@@ -65,6 +64,15 @@ tiles:
 #   bg_color: "#ffffff"
 #   txt_color: "#000000"
 #   tags: ["socials"]
+- 
+  name: "PubPub"
+  subtitle: "Our PubPub open documentation site"
+  url: "https://copim.pubpub.org/"
+  img: "/logos/pubpub.png"
+  #bg_color: "#98C8FF"
+  txt_color: "#000000"
+  tile_color: "black"
+  tags: ["documentation"]
 -
   name: "Zenodo"
   subtitle: "A hub for official outputs"
@@ -72,6 +80,7 @@ tiles:
   img: "/logos/zenodo.svg"
   bg_color: "#004BAB"
   txt_color: "#ffffff"
+  tile_color: "black"
   tags: ["documentation"]
 -
   name: "GitHub"
@@ -80,6 +89,7 @@ tiles:
   img: "/logos/GitHub_Logo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
+  tile_color: "black"
   tags: ["documentation", "software"]
 # -
 #   name: "@copim"
