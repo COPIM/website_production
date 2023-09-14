@@ -44,7 +44,7 @@ tiles:
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
   subtitle: "Resources for setting up an OA press"
   url: "https://bookstack.openbookcollective.org/"
-  bg_color: "#2D3169"
+  bg_color: "#262959"
   txt_color: "#ffffff"
   tile_color: "#B398FF"
   tags: ["toolkits"]
