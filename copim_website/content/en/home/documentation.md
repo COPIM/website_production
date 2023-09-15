@@ -1,5 +1,6 @@
 ---
 title: "Documentation"
+category_color: "black"
 weight: 35
 ---
 

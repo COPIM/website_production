@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+category_color: "#EA7F1D"
 weight: 8
 ---
 

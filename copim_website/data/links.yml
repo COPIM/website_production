@@ -5,7 +5,7 @@ tiles:
   url: "https://openbookfutures.copim.ac.uk"
   bg_color: "#EA7F1D"
   txt_color: "#ffffff"
-  tile_color: "#EA7F1D"
+  category_color: "#EA7F1D"
   tags: ["projects"]
 -
   name: "Copim"
@@ -14,14 +14,14 @@ tiles:
   img: "/logos/copim-logo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
-  tile_color: "#EA7F1D"
+  category_color: "#EA7F1D"
   tags: ["projects"]
 -
   name: "Open Book Collective"
   subtitle: "An open publishing organisation"
   url: "https://openbookcollective.org/"
   img: "/logos/obc.png"
-  tile_color: "#D92B85"
+  category_color: "#D92B85"
   tags: ["organisations"]
 -
   name: "Thoth"
@@ -30,15 +30,15 @@ tiles:
   img: "/logos/thoth.png"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
-  tile_color: "#D92B85"
-  tags: ["organisations"]
+  category_color: "#D92B85"
+  tags: ["organisations", "software"]
 -
   name: "Opening the Future"
   subtitle: "A new model for open access books"
   url: "https://www.openingthefuture.net/"
   img: "/logos/obf.png"
   txt_color: "#ffffff"
-  tile_color: "#3FA9F5"
+  category_color: "#3FA9F5"
   tags: ["models"]
 -
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
@@ -46,7 +46,7 @@ tiles:
   url: "https://bookstack.openbookcollective.org/"
   bg_color: "#262959"
   txt_color: "#ffffff"
-  tile_color: "#B398FF"
+  category_color: "#B398FF"
   tags: ["toolkits"]
 -
   name: "Experimental Publishing Compendium"
@@ -54,7 +54,7 @@ tiles:
   url: "https://compendium.copim.ac.uk/"
   bg_color: "#B398FF"
   txt_color: "#ffffff"
-  tile_color: "#B398FF"
+  category_color: "#B398FF"
   tags: ["toolkits", "software"]
 # -
 #   name: "Wikipedia"
@@ -71,7 +71,7 @@ tiles:
   img: "/logos/pubpub.png"
   #bg_color: "#98C8FF"
   txt_color: "#000000"
-  tile_color: "black"
+  category_color: "black"
   tags: ["documentation"]
 -
   name: "Zenodo"
@@ -80,16 +80,16 @@ tiles:
   img: "/logos/zenodo.svg"
   bg_color: "#004BAB"
   txt_color: "#ffffff"
-  tile_color: "black"
+  category_color: "black"
   tags: ["documentation"]
 -
   name: "GitHub"
-  subtitle: "Repositories for our software"
+  subtitle: "Repositories for our open source software"
   url: "https://github.com/COPIM"
   img: "/logos/GitHub_Logo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
-  tile_color: "black"
+  category_color: "black"
   tags: ["documentation", "software"]
 # -
 #   name: "@copim"

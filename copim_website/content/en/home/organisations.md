@@ -1,5 +1,6 @@
 ---
 title: "Organisations"
+category_color: "#D92B85"
 weight: 30
 ---
 

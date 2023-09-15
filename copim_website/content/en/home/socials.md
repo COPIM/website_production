@@ -1,5 +1,6 @@
 ---
 title: "Socials"
+category_color: "BFCDD9"
 ---
 
 Follow us on social media:
