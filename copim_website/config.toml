@@ -97,14 +97,14 @@ tag = "models"
 icon = "object-group"
 
 [[ params.nav ]]
-name = "documentation"
-tag = "documentation"
-icon = "file-text"
-
-[[ params.nav ]]
 name = "toolkits"
 tag = "toolkits"
 icon = "gavel"
+
+[[ params.nav ]]
+name = "documentation"
+tag = "documentation"
+icon = "file-text"
 
 [[ params.nav ]]
 name = "software"
