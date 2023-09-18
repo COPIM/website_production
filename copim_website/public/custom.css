@@ -2672,44 +2672,38 @@ background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC6
   padding: 6px;
 }
 
-.text-highlight-project {
-  box-shadow: inset 0.1rem 0.1rem #EA7F1D;
+.text-highlight-Projects {
+  box-shadow: inset 0.2rem 0.2rem #EA7F1D;
   padding-left: 0.2rem;
   color: #000000;
 }
 
-.text-highlight-organisation {
-  box-shadow: inset 0.1rem 0.1rem #D92B85;
+.text-highlight-Initiatives {
+  box-shadow: inset 0.2rem 0.2rem #D92B85;
   padding-left: 0.2rem;
   color: #000000;
 }
 
-.text-highlight-model {
-  box-shadow: inset 0.1rem 0.1rem #3FA9F5;
+.text-highlight-Resources {
+  box-shadow: inset 0.2rem 0.2rem #B398FF;
   padding-left: 0.2rem;
   color: #000000;
 }
 
-.text-highlight-toolkit {
-  box-shadow: inset 0.1rem 0.1rem #B398FF;
+.text-highlight-Documentation {
+  box-shadow: inset 0.2rem 0.2rem black;
   padding-left: 0.2rem;
   color: #000000;
 }
 
-.text-highlight-documentation {
-  box-shadow: inset 0.1rem 0.1rem black;
+.text-highlight-Software {
+  box-shadow: inset 0.2rem 0.2rem #54aa38;
   padding-left: 0.2rem;
   color: #000000;
 }
 
-.text-highlight-software {
-  box-shadow: inset 0.1rem 0.1rem #1B7F36;
-  padding-left: 0.2rem;
-  color: #000000;
-}
-
-.text-highlight-social {
-  box-shadow: inset 0.1rem 0.1rem #BFCDD9;
+.text-highlight-Socials {
+  box-shadow: inset 0.2rem 0.2rem #BFCDD9;
   padding-left: 0.2rem;
   color: #000000;
 }

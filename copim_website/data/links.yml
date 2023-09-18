@@ -3,8 +3,8 @@ tiles:
   name: "Open Book Futures"
   subtitle: "A 3-year research project"
   url: "https://openbookfutures.copim.ac.uk"
-  bg_color: "#EA7F1D"
-  txt_color: "#ffffff"
+  #bg_color: "#EA7F1D"
+  txt_color: "#000000"
   category_color: "#EA7F1D"
   tags: ["projects"]
 -
@@ -12,8 +12,6 @@ tiles:
   subtitle: "The initial research project"
   url: "https://www.copim.ac.uk"
   img: "/logos/copim-logo.png"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
   category_color: "#EA7F1D"
   tags: ["projects"]
 -
@@ -22,40 +20,37 @@ tiles:
   url: "https://openbookcollective.org/"
   img: "/logos/obc.png"
   category_color: "#D92B85"
-  tags: ["organisations"]
+  tags: ["initiatives"]
 -
   name: "Thoth"
   subtitle: "An open metadata platform"
   url: "https://thoth.pub/"
   img: "/logos/thoth.png"
-  bg_color: "#ffffff"
-  txt_color: "#ff9900"
   category_color: "#D92B85"
-  tags: ["organisations", "software"]
+  tags: ["initiatives", "software"]
 -
   name: "Opening the Future"
   subtitle: "A new model for open access books"
   url: "https://www.openingthefuture.net/"
   img: "/logos/obf.png"
-  txt_color: "#ffffff"
-  category_color: "#3FA9F5"
-  tags: ["models"]
+  category_color: "#D92B85"
+  tags: ["initiatives"]
 -
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
   subtitle: "Resources for setting up an OA press"
   url: "https://bookstack.openbookcollective.org/"
-  bg_color: "#262959"
-  txt_color: "#ffffff"
+  #bg_color: "#262959"
+  txt_color: "#000000"
   category_color: "#B398FF"
-  tags: ["toolkits"]
+  tags: ["resources"]
 -
   name: "Experimental Publishing Compendium"
   subtitle: "A guide to experimental publishing"
   url: "https://compendium.copim.ac.uk/"
-  bg_color: "#B398FF"
-  txt_color: "#ffffff"
+  #bg_color: "#B398FF"
+  txt_color: "#000000"
   category_color: "#B398FF"
-  tags: ["toolkits", "software"]
+  tags: ["resources", "software"]
 # -
 #   name: "Wikipedia"
 #   subtitle: "Copim's Wikipedia page"
@@ -69,17 +64,13 @@ tiles:
   subtitle: "Our PubPub open documentation site"
   url: "https://copim.pubpub.org/"
   img: "/logos/pubpub.png"
-  #bg_color: "#98C8FF"
-  txt_color: "#000000"
   category_color: "black"
   tags: ["documentation"]
 -
   name: "Zenodo"
   subtitle: "A hub for official outputs"
   url: "https://zenodo.org/communities/copim/"
-  img: "/logos/zenodo.svg"
-  bg_color: "#004BAB"
-  txt_color: "#ffffff"
+  img: "/logos/zenodo.png"
   category_color: "black"
   tags: ["documentation"]
 -
@@ -87,8 +78,6 @@ tiles:
   subtitle: "Repositories for our open source software"
   url: "https://github.com/COPIM"
   img: "/logos/GitHub_Logo.png"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
   category_color: "black"
   tags: ["documentation", "software"]
 # -

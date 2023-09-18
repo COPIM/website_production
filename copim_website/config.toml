@@ -87,19 +87,14 @@ tag = "projects"
 icon = "tasks"
 
 [[ params.nav ]]
-name = "organisations"
-tag = "organisations"
+name = "initiatives"
+tag = "initiatives"
 icon = "sitemap"
 
 [[ params.nav ]]
-name = "models"
-tag = "models"
-icon = "object-group"
-
-[[ params.nav ]]
-name = "toolkits"
-tag = "toolkits"
-icon = "gavel"
+name = "resources"
+tag = "resources"
+icon = "folder-open"
 
 [[ params.nav ]]
 name = "documentation"

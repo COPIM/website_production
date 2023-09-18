@@ -1,5 +1,5 @@
 ---
-title: "Toolkits"
+title: "Resources"
 category_color: "#B398FF"
 weight: 40
 ---
