@@ -630,6 +630,10 @@ disponigante altkvalitajn solvojn kaj servojn por metadatenoj-kreado, administra
         © 2023 Copim kaj licencita sub <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
     
     </div>
+    <div class="has-text-centered footer-links">
+        <a href="/#credits">website credits</a>
+        <a href="/#privacy">privacy policy</a>
+    </div>
 </div>
 
 
@@ -647,6 +651,60 @@ disponigante altkvalitajn solvojn kaj servojn por metadatenoj-kreado, administra
 
 
 <script src="http://localhost:1337/js/bundleOwlCarousel.bc6b73f0a36bf19c70c5df8fc352d322988ca2bc40743fb836ee7371d555c28a.js" integrity="sha256-vGtz8KNr8Zxwxd&#43;Pw1LTIpiMorxAdD&#43;4Nu5zcdVVwoo="></script>
+
+        
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+  Our privacy and cookie policy is available on <a href="/#privacy">our privacy policy page</a>. You can change your cookie settings at any time as described <a href="/#privacy">in our privacy policy</a>.
+  <br><br>
+  <span id="js-cookie-button">Continue</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: #F8D9AA;
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #000000;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+
+.cookie-box a {
+  color: #2E38FF;
+}
+
+#js-cookie-button {
+    border-radius: 5px;
+    padding: 10px 30px;
+    background: #BFCDD9;
+}
+</style>
 
 
         

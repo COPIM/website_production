@@ -2707,3 +2707,7 @@ background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC6
   padding-left: 0.2rem;
   color: #000000;
 }
+
+.footer-links a {
+  margin-right: 20px;
+}

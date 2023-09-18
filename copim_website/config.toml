@@ -33,6 +33,11 @@ DefaultContentLanguage           = "en"                    # Default language fo
         facebook                 = true
         pinterest                = true
 
+    # cookies
+    [params.cookies]
+        enable = true
+        expire_days = 2
+
     # To enable giscus, the GitHub-discussions-based comment section,
     # input the repository for the discussions below. For more details, see
     # https://www.joelnitta.com/posts/2021-11-24_using-giscus/
