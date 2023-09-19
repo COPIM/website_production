@@ -1,6 +1,5 @@
 ---
 title: "Software"
-category_color: "#54aa38"
 weight: 60
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Models"
-category_color: "#3FA9F5"
 weight: 30
 ---
 
