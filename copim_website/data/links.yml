@@ -2,7 +2,7 @@ tiles:
 -
   name: "Open Book Futures"
   subtitle: "A 3-year research project"
-  url: "https://openbookfutures.copim.ac.uk"
+  url: "http://openbookfutures.copim.ac.uk"
   #bg_color: "#EA7F1D"
   txt_color: "#000000"
   category_color: "#EA7F1D"

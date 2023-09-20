@@ -115,8 +115,8 @@ tag = "software"
 icon = "code"
 
 [[ params.nav ]]
-name = "socials"
-tag = "socials"
+name = "people"
+tag = "people"
 icon = "users"
 
 # If you don't want to use the default menu, you can define one by yourself
