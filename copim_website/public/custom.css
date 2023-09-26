@@ -2679,13 +2679,13 @@ background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC6
 }
 
 .highlight-Initiatives {
-  box-shadow: inset 0.2rem 0.2rem #D92B85;
+  box-shadow: inset 0.2rem 0.2rem #3FA9F5;
   padding-left: 0.2rem;
   color: #000000;
 }
 
 .highlight-Resources {
-  box-shadow: inset 0.2rem 0.2rem #B398FF;
+  box-shadow: inset 0.2rem 0.2rem #D92B85;
   padding-left: 0.2rem;
   color: #000000;
 }

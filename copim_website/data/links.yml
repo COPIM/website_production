@@ -19,21 +19,21 @@ tiles:
   subtitle: "An open publishing organisation"
   url: "https://openbookcollective.org/"
   img: "/logos/obc.png"
-  category_color: "#D92B85"
+  category_color: "#3FA9F5"
   tags: ["initiatives"]
 -
   name: "Thoth"
   subtitle: "An open metadata platform"
   url: "https://thoth.pub/"
   img: "/logos/thoth.png"
-  category_color: "#D92B85"
+  category_color: "#3FA9F5"
   tags: ["initiatives", "software"]
 -
   name: "Opening the Future"
   subtitle: "A new model for open access books"
   url: "https://www.openingthefuture.net/"
   img: "/logos/obf.png"
-  category_color: "#D92B85"
+  category_color: "#3FA9F5"
   tags: ["initiatives"]
 -
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
@@ -41,7 +41,7 @@ tiles:
   url: "https://bookstack.openbookcollective.org/"
   #bg_color: "#262959"
   txt_color: "#000000"
-  category_color: "#B398FF"
+  category_color: "#D92B85"
   tags: ["resources"]
 -
   name: "Experimental Publishing Compendium"
@@ -49,7 +49,7 @@ tiles:
   url: "https://compendium.copim.ac.uk/"
   #bg_color: "#B398FF"
   txt_color: "#000000"
-  category_color: "#B398FF"
+  category_color: "#D92B85"
   tags: ["resources", "software"]
 # -
 #   name: "Wikipedia"
