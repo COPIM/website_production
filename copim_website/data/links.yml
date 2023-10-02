@@ -10,7 +10,7 @@ tiles:
 -
   name: "Copim"
   subtitle: "The initial research project"
-  url: "https://www.copim.ac.uk"
+  url: "https://archive.copim.ac.uk"
   img: "/logos/copim-logo.png"
   category_color: "#EA7F1D"
   tags: ["projects"]
