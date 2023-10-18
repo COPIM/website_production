@@ -1,15 +1,15 @@
 tiles:
 -
   name: "Open Book Futures"
-  subtitle: "A 3-year research project"
+  subtitle: "A project from 2023 to 2026"
   url: "http://openbookfutures.copim.ac.uk"
   #bg_color: "#EA7F1D"
   txt_color: "#000000"
   category_color: "#EA7F1D"
   tags: ["projects"]
 -
-  name: "Copim"
-  subtitle: "The initial research project"
+  name: "COPIM project"
+  subtitle: "A project from 2019 to 2023"
   url: "https://archive.copim.ac.uk"
   img: "/logos/copim-logo.png"
   category_color: "#EA7F1D"
