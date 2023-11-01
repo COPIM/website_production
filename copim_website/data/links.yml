@@ -1,8 +1,9 @@
 tiles:
 -
-  name: "Open Book Futures"
+  #name: "Open Book Futures"
   subtitle: "A project from 2023 to 2026"
   url: "http://openbookfutures.copim.ac.uk"
+  img: "/logos/obf.png"
   #bg_color: "#EA7F1D"
   txt_color: "#000000"
   category_color: "#EA7F1D"
@@ -32,7 +33,7 @@ tiles:
   name: "Opening the Future"
   subtitle: "A new model for open access books"
   url: "https://www.openingthefuture.net/"
-  img: "/logos/obf.png"
+  img: "/logos/otf.png"
   category_color: "#3FA9F5"
   tags: ["initiatives"]
 -
@@ -44,9 +45,10 @@ tiles:
   category_color: "#D92B85"
   tags: ["resources"]
 -
-  name: "Experimental Publishing Compendium"
+  #name: "Experimental Publishing Compendium"
   subtitle: "A guide to experimental publishing"
   url: "https://compendium.copim.ac.uk/"
+  img: "/logos/compendium_logo.png"
   #bg_color: "#B398FF"
   txt_color: "#000000"
   category_color: "#D92B85"
