@@ -75,6 +75,11 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon_pack = "fab"
         html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
     [[params.social]]
+        url   = "https://www.linkedin.com/company/copim/"
+        name  = "LinkedIn"
+        icon  = "linkedin" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
         url   = "https://twitter.com/Copim_community"
         name  = "X"
         icon  = "twitter" # icon name without the 'fa-'
