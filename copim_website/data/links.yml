@@ -18,7 +18,7 @@ tiles:
   tags: ["projects"]
 -
   name: "Open Book Collective"
-  subtitle: "Charitable organisation enabling financial support for OA initiatives"
+  subtitle: "Charity enabling financial support for OA initiatives"
   url: "https://openbookcollective.org/"
   img: "/logos/obc.png"
   category_color: "#3FA9F5"
@@ -47,7 +47,7 @@ tiles:
   tags: ["resources"]
 -
   #name: "Experimental Publishing Compendium"
-  subtitle: "Guide to experimental publishing tools, practices, and books"
+  subtitle: "Guide to experimental publishing tools, practices and books"
   url: "https://compendium.copim.ac.uk/"
   img: "/logos/compendium_logo.png"
   #bg_color: "#B398FF"
@@ -64,7 +64,7 @@ tiles:
 #   tags: ["socials"]
 - 
   name: "PubPub"
-  subtitle: "PubPub site for project info, updates, and open documentation"
+  subtitle: "PubPub site for project info, updates and open documentation"
   url: "https://copim.pubpub.org/"
   img: "/logos/pubpub.png"
   category_color: "black"

@@ -2,7 +2,7 @@
 title: "About us"
 ---
 
-Copim is a community of people and organisations working to build a fairer, more open future for scholarly books. Together, we collaborate on community-led and values-driven initiatives, which help to support open access authors, publishers and readers. 
+Copim is a community of people and organisations working to build a fairer, more open future for scholarly books. Together we collaborate on community-led and values-driven initiatives which help to support open access authors, publishers and readers. 
 
 Initially formed around the [Community-led Open Publication Infrastructures for Monographs [COPIM] project (2019–2023)](https://copim.pubpub.org/copim-project), the Copim community continues to grow and develop through its work on the [Open Book Futures project (2023–2026)](https://copim.pubpub.org/open-book-futures-project) and its wider activities. 
 
