@@ -3,16 +3,16 @@ title: "Projects"
 weight: 8
 ---
 
-### Open Book Futures
+### Open Book Futures (2023–2026)
 
-**[Open Book Futures](http://openbookfutures.copim.ac.uk/)** is a project to significantly expand key infrastructures created by COPIM to achieve a step change in how community-owned open access book publishing is delivered.
+The **Open Book Futures** project launched in May 2023 and is set to run until April 2026. The project is funded by the Research England Development (RED) Fund and Arcadia. The research project builds upon the pioneering work of the COPIM project (2019–2023) and is led by Lancaster University. Open Book Futures aims to initiate a step-change in the ambition, scope and impact of community-led Open Access book publishing.
 
-Open Book Futures will follow the principles of ‘Scaling Small’ that guided the work of the COPIM project, further developing the infrastructures, business models, networks and resources that are needed to deliver a future for Open Access books led not by large commercial operations, but by communities of scholars, small-to-medium-sized publishers, not-for-profit infrastructure providers, and scholarly libraries.
+Find out more on our PubPub open documentation site: [https://copim.pubpub.org/open-book-futures-project](https://copim.pubpub.org/open-book-futures-project)
 
-Open Book Futures is supported by the Research England Development (RED) Fund, and Arcadia, a charitable fund of Lisbet Rausing and Peter Baldwin.
+### COPIM (2019–2023)
 
-### COPIM
+The **COPIM (Community-led Open Publication Infrastructures for Monographs)** research project ran from November 2019 to April 2023, and was funded by the Research England Development (RED) Fund and Arcadia. The project formed an international partnership of researchers, universities, librarians, open access publishers and infrastructure providers, all united by a desire to enable open access book publishing to flourish. 
 
-**COPIM (Community-led Open Publication Infrastructures for Monographs)** was an international research project bringing together researchers, universities, librarians, open access book publishers and infrastructure providers. It built community-owned, open systems and infrastructures to enable open access book publishing to flourish.
+You can learn more about the COPIM project via its archived project website: [https://www.copim.ac.uk/](https://www.copim.ac.uk/)
 
-COPIM ran from November 2019 to April 2023 and was supported by the Research England Development (RED) Fund, and Arcadia, a charitable fund of Lisbet Rausing and Peter Baldwin.
+You can also read the final COPIM project report here: [https://doi.org/10.5281/zenodo.7961527](https://doi.org/10.5281/zenodo.7961527)

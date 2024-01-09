@@ -1,7 +1,7 @@
 tiles:
 -
-  #name: "Open Book Futures"
-  subtitle: "A project from 2023 to 2026"
+  name: "Open Book Futures"
+  subtitle: "Research project (2023–2026)"
   url: "http://openbookfutures.copim.ac.uk"
   img: "/logos/obf.png"
   #bg_color: "#EA7F1D"
@@ -9,36 +9,37 @@ tiles:
   category_color: "#EA7F1D"
   tags: ["projects"]
 -
-  name: "COPIM project"
-  subtitle: "A project from 2019 to 2023"
-  url: "https://archive.copim.ac.uk"
-  img: "/logos/copim-logo.png"
+  name: "Community-led Open Publication Infrastructures for Monographs (COPIM)"
+  subtitle: "Research project (2019–2023)"
+  url: "https://copim.pubpub.org/copim-project"
+  #img: "/logos/copim-logo.png"
+  txt_color: "#000000"
   category_color: "#EA7F1D"
   tags: ["projects"]
 -
   name: "Open Book Collective"
-  subtitle: "An open publishing organisation"
+  subtitle: "Charitable organisation enabling financial support for OA initiatives"
   url: "https://openbookcollective.org/"
   img: "/logos/obc.png"
   category_color: "#3FA9F5"
   tags: ["initiatives"]
 -
   name: "Thoth"
-  subtitle: "An open metadata platform"
+  subtitle: "Open metadata management and dissemination platform"
   url: "https://thoth.pub/"
   img: "/logos/thoth.png"
   category_color: "#3FA9F5"
   tags: ["initiatives", "software"]
 -
   name: "Opening the Future"
-  subtitle: "A new model for open access books"
+  subtitle: "Funding model for OA books"
   url: "https://www.openingthefuture.net/"
   img: "/logos/otf.png"
   category_color: "#3FA9F5"
   tags: ["initiatives"]
 -
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
-  subtitle: "Resources for setting up an OA press"
+  subtitle: "Guide for smaller and scholar-led OA publishers"
   url: "https://bookstack.openbookcollective.org/"
   #bg_color: "#262959"
   txt_color: "#000000"
@@ -46,7 +47,7 @@ tiles:
   tags: ["resources"]
 -
   #name: "Experimental Publishing Compendium"
-  subtitle: "A guide to experimental publishing"
+  subtitle: "Guide to experimental publishing tools, practices, and books"
   url: "https://compendium.copim.ac.uk/"
   img: "/logos/compendium_logo.png"
   #bg_color: "#B398FF"
@@ -63,14 +64,14 @@ tiles:
 #   tags: ["socials"]
 - 
   name: "PubPub"
-  subtitle: "Our PubPub open documentation site"
+  subtitle: "PubPub site for project info, updates, and open documentation"
   url: "https://copim.pubpub.org/"
   img: "/logos/pubpub.png"
   category_color: "black"
   tags: ["documentation"]
 -
   name: "Zenodo"
-  subtitle: "A hub for official outputs"
+  subtitle: "Archive of publications from our community"
   url: "https://zenodo.org/communities/copim/"
   img: "/logos/zenodo.png"
   category_color: "black"

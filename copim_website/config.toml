@@ -120,8 +120,8 @@ tag = "software"
 icon = "code"
 
 [[ params.nav ]]
-name = "people"
-tag = "people"
+name = "about us"
+tag = "about us"
 icon = "users"
 
 # If you don't want to use the default menu, you can define one by yourself
@@ -166,7 +166,7 @@ icon = "users"
         title            = "Copim"
         [languages.en.params]
             description  = "Copim is an international partnership of researchers, universities, librarians, open access book publishers and infrastructure providers. It is building community-owned, open systems and infrastructures to enable open access book publishing to flourish."   # Max 160 characters show in search results
-            footerText   = "© 2023 Copim and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."                      # Text to override default footer text (markdown allowed)
+            footerText   = "© 2023–2024 Copim and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)."                      # Text to override default footer text (markdown allowed)
 
     [languages.es]
         languageName     = "español"

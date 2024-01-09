@@ -3,21 +3,14 @@ title: "Initiatives"
 weight: 30
 ---
 
-### ![Open Book Collective](/logos/obc.png)
+### Open Book Collective
 
-**[Open Book Collective](https://openbookcollective.org/) (OBC)** offers a single platform where libraries can find, assess, and sign up to support OA book programmes.
+The **Open Book Collective** enables libraries and other institutions to financially support open access initiatives via its Membership Programmes. Find out more at: [https://openbookcollective.org/](https://openbookcollective.org/)
 
-### ![Thoth](/logos/thoth.png)
+### Thoth
 
-**[Thoth](https://thoth.pub/)** is an open metadata management and dissemination platform. As an organisation, we are focused on:
+**Thoth** is an open metadata management and dissemination platform, and a non-profit CIC registered in the UK. Find out more at: [https://thoth.pub/](https://thoth.pub/)
 
-* creation, curation, and dissemination of high-quality metadata records which are essential for the advancement of public knowledge;
-* promoting openness in scholarly communications such as open access, open licensing, FLOSS, open data, open metadata, and open standards and protocols;
-* embracing infrastructural and platform diversity as an inherent component of a flourishing scholarly communications landscape;
-* providing high-quality solutions and services for metadata creation, management, dissemination, archiving and preservation.
+### Opening the Future
 
-### ![Opening the Future](/logos/obf.png)
-
-**[Opening the Future](https://www.openingthefuture.net/)** is an affordable collective subscription model for libraries, broadening your collections and funding further open access publishing.
-
-Building on library journal subscription models and successful book membership programmes, Opening the Future funds new open access (OA) books that are available to everyone. By leveraging the collective contributions of academic libraries worldwide, we're reshaping how knowledge is funded and accessed. By joining Opening the Future, your library gains valuable benefits and no single institution bears a disproportionate burden. For a modest annual fee your library gets DRM-free, unlimited access to a selection of a publisher's backlist, with perpetual access after three years. The membership revenue is used by the publisher solely to produce new OA monographs, moving towards an affordable, sustainable model for academic publishing.
+**Opening the Future** is a new funding model for Open Access books, currently adopted by two University Presses, with more presses to come. Find out more at: [https://openingthefuture.net/](https://openingthefuture.net/)
