@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Dokumentation
 weight: 35
 ---
 
@@ -7,9 +7,9 @@ weight: 35
 
 Copim verwendet PubPub für unsere [Hauptdokumentation und Aktualisierung](https://copim.pubpub.org/). Unsere offenen Dokumentationen sollen einen erfinderischen und wiederverwendbaren Einblick in die Entwicklung der gemeinschaftseigenen Infrastruktur für die Veröffentlichung von Open Access Büchern geben.
 
-♪## Zenodo
+## Zenodo
 
-[Unsere Community-Sammlung auf Zenodo](https://zenodo.org/communities/copim/) dient als Hub für die offizielle Ausgabe (Reports, Lieferungen, Präsentationen) während der Lebensdauer des Projekts (November 2019 - April 2023).
+[Unsere Community-Sammlung auf Zenodo](https://zenodo.org/communities/copim/) dient als Hub für offizielle Outputs der Copim Community, einschließlich Berichte und Präsentationen.
 
 ### GitHub
 

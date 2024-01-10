@@ -1,11 +1,11 @@
 ---
-title: Toolkits
+title: Recursos
 weight: 40
 ---
 
 ### Toolkit for Small and Scholar-Led Open Access Publishers
 
-El **[Toolkit for Small and Scholar-Led Open Access Publishers] (https://toolkit.openbookcollective.org/)** es un recurso para ayudar a los editores pertinentes que deseen configurar una prensa o editores que deseen mejorar la forma en que operan. Es publicado y mantenido por el Open Book Collective y fue lanzado en mayo de 2023.
+El **[Toolkit for Small and Scholar-Led Open Access Publishers](https://toolkit.openbookcollective.org/)** es un recurso para ayudar a los editores pertinentes que deseen configurar una prensa o editores que deseen mejorar la forma en que operan. Es publicado y mantenido por el Open Book Collective y fue lanzado en mayo de 2023.
 
 ### Experimental Publishing Compendium
 

@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Documentación
 weight: 35
 ---
 
@@ -9,7 +9,7 @@ Copim utiliza PubPub para nuestro sitio [de documentación principal y actualiza
 
 ### Zenodo
 
-[Nuestra colección comunitaria sobre Zenodo](https://zenodo.org/communities/copim/) sirve como centro de salida oficial (informes, entregables, presentaciones) generados durante la vida útil del proyecto (noviembre 2019 - abril 2023).
+[Nuestra colección comunitaria sobre Zenodo](https://zenodo.org/communities/copim/) sirve como centro para los productos oficiales generados por la comunidad Copim, incluyendo informes y presentaciones.
 
 ### GitHub
 

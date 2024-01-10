@@ -1,5 +1,5 @@
 ---
-title: Toolkits
+title: Ressourcen
 weight: 40
 ---
 
@@ -9,4 +9,4 @@ Das **[Toolkit for Small and Scholar-Led Open Access Publishers](https://toolkit
 
 ### Experimental Publishing Compendium
 
-Das **[Experimental Publishing Compendium](https://compendium.copim.ac.uk/)* ist ein Leitfaden und Referenz für Gelehrte, Verlage, Entwickler, Bibliothekare und Designer, die die Form, Form und Rationalität von wissenschaftlichen Büchern herausfordern, verschieben und neu definieren möchten. Das Kompendium bringt Werkzeuge, Praktiken und Bücher zusammen, um die Veröffentlichung experimenteller wissenschaftlicher Werke zu fördern.
+Das **[Experimental Publishing Compendium](https://compendium.copim.ac.uk/)** ist ein Leitfaden und Referenz für Gelehrte, Verlage, Entwickler, Bibliothekare und Designer, die die Form, Form und Rationalität von wissenschaftlichen Büchern herausfordern, verschieben und neu definieren möchten. Das Kompendium bringt Werkzeuge, Praktiken und Bücher zusammen, um die Veröffentlichung experimenteller wissenschaftlicher Werke zu fördern.

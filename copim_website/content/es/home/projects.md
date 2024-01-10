@@ -1,18 +1,18 @@
 ---
-title: Projects
+title: Proyectos
 weight: 8
 ---
 
-### Open Book Futures
+### Open Book Futures (2023–2026)
 
-**[Open Book Futures](http://openbookfutures.copim.ac.uk/)** es un proyecto para ampliar significativamente las infraestructuras clave creadas por la COPIM para lograr un cambio gradual en la forma en que se publica el libro de acceso abierto de propiedad de la comunidad.
+El proyecto **Open Book Futures** se lanzó en mayo de 2023 y se ejecuta hasta abril de 2026. El proyecto está financiado por el Fondo de Desarrollo de la Investigación Inglaterra (RED) y Arcadia. El proyecto de investigación se basa en el trabajo pionero del proyecto COPIM (2019–2023) y está dirigido por la Universidad Lancaster. Open Book Futures pretende iniciar un cambio gradual en la ambición, el alcance y el impacto de la publicación de libros de Open Access dirigida por la comunidad.
 
-Open Book Futures seguirá los principios de ‘Scaling Small’ que guiaron la labor del proyecto COPIM, desarrollando aún más las infraestructuras, modelos de negocios, redes y recursos necesarios para ofrecer un futuro para los libros de Open Access no dirigidos por grandes operaciones comerciales, sino por comunidades de académicos, editores de tamaño pequeño a mediano, proveedores de infraestructura sin fines de lucro y bibliotecas académicas.
+Más información sobre nuestro sitio de documentación abierta PubPub: [https://copim.pubpub.org/open-book-futures-project](https://copim.pubpub.org/open-book-futures-project)
 
-Open Book Futures es apoyado por el Fondo de Desarrollo de la Investigación Inglaterra (RED), y Arcadia, un fondo caritativo de Lisbet Rausing y Peter Baldwin.
+### COPIM (2019–2023)
 
-## COPIM
+El proyecto de investigación **COPIM (Community-led Open Publication Infrastructures for Monographs)** funcionó de noviembre de 2019 a abril de 2023, y fue financiado por el Fondo de Desarrollo de la Investigación Inglaterra (RED) y Arcadia. El proyecto formó una asociación internacional de investigadores, universidades, bibliotecarios, editores de acceso abierto y proveedores de infraestructura, todos unidos por el deseo de permitir que prospere la publicación de libros de acceso abierto.
 
-**COPIM (Infraestructuras de publicación abierta dirigidas por la comunidad para monografías)** fue un proyecto de investigación internacional que reunió investigadores, universidades, bibliotecarios, editores de libros de acceso abierto y proveedores de infraestructura. Construyó sistemas e infraestructuras de propiedad de la comunidad para que prosperara la publicación de libros de acceso abierto.
+Puede obtener más información sobre el proyecto COPIM a través de su sitio web archivado del proyecto: [https://www.copim.ac.uk/](https://www.copim.ac.uk/)
 
-COPIM corrió de noviembre de 2019 a abril de 2023 y fue apoyado por el Fondo de Desarrollo de la Investigación Inglaterra (RED), y Arcadia, un fondo caritativo de Lisbet Rausing y Peter Baldwin.
+También puede leer el informe final del proyecto COPIM aquí: [https://doi.org/10.5281/zenodo.7961527](https://doi.org/10.5281/zenodo.7961527)

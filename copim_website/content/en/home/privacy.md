@@ -51,4 +51,4 @@ Copim keeps its privacy policy under regular review and places any updates on th
 
 ### How to contact us
 
-If you have any questions about Copim privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to [contact us](/#socials).
+If you have any questions about Copim privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
