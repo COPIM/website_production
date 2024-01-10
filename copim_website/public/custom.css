@@ -24,8 +24,10 @@ a {
     list-style-position: inside;
 }
 
-.section {
-  padding: 0rem 8rem;
+@media screen and (min-width: 769px){
+  .section {
+    padding: 0rem 8rem;
+  }
 }
 
 .languages-link {
