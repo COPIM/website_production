@@ -2680,10 +2680,24 @@ background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC6
   color: #000000;
 }
 
+a.highlight-Projects {
+  box-shadow: none;
+  padding-left: 0;
+  text-decoration: underline;
+  text-decoration-color: #EA7F1D;
+}
+
 .highlight-Initiatives {
   box-shadow: inset 0.2rem 0.2rem #3FA9F5;
   padding-left: 0.2rem;
   color: #000000;
+}
+
+a.highlight-Initiatives {
+  box-shadow: none;
+  padding-left: 0;
+  text-decoration: underline;
+  text-decoration-color: #3FA9F5;
 }
 
 .highlight-Resources {
@@ -2692,10 +2706,24 @@ background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC6
   color: #000000;
 }
 
+a.highlight-Resources {
+  box-shadow: none;
+  padding-left: 0;
+  text-decoration: underline;
+  text-decoration-color: #D92B85;
+}
+
 .highlight-Documentation {
   box-shadow: inset 0.2rem 0.2rem black;
   padding-left: 0.2rem;
   color: #000000;
+}
+
+a.highlight-Documentation {
+  box-shadow: none;
+  padding-left: 0;
+  text-decoration: underline;
+  text-decoration-color: black;
 }
 
 .highlight-Software {
@@ -2704,7 +2732,14 @@ background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC6
   color: #000000;
 }
 
-.highlight-People {
+a.highlight-Software {
+  box-shadow: none;
+  padding-left: 0;
+  text-decoration: underline;
+  text-decoration-color: #54aa38;
+}
+
+.highlight-About {
   box-shadow: inset 0.2rem 0.2rem #BFCDD9;
   padding-left: 0.2rem;
   color: #000000;
