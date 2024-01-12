@@ -5,7 +5,7 @@ weight: 60
 
 ### GitHub
 
-Copim believes that open access and open source are interconnected and has made all the software created during its various projects open source licensed. [Our GitHub repositories](https://github.com/COPIM) contain these various tools and scripts including our [Hugo](https://gohugo.io/) website and themes, the Docker Compose config for our main applications server, various backup scripts, and custom software for experimental publishing.
+Copim believes that open access and open source are interconnected and has made all the software created during its various projects open source licensed. [Our GitHub repositories](https://github.com/COPIM) contain these various tools and scripts including our [Hugo](https://gohugo.io/) website and themes, the Docker Compose config for our main applications server, various backup scripts and custom software for experimental publishing.
 
 Thoth's code is also open source with GitHub repositories at [https://github.com/thoth-pub/](https://github.com/thoth-pub/).
 
