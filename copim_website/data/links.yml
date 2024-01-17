@@ -54,6 +54,14 @@ tiles:
   txt_color: "#000000"
   category_color: "#D92B85"
   tags: ["resources", "software"]
+-
+  name: "How to Implement an Equitable Revenue Model for Open Access Monographs"
+  subtitle: "Guide to running an Opening the Future programme at an academic press"
+  url: "https://zenodo.org/record/7003979"
+  #bg_color: "#262959"
+  txt_color: "#000000"
+  category_color: "#D92B85"
+  tags: ["resources"]
 # -
 #   name: "Wikipedia"
 #   subtitle: "Copim's Wikipedia page"
