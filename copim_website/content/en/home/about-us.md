@@ -10,7 +10,7 @@ Learn more about the Copim community in this helpful introductory blog post by L
 
 View a list of the organisations and people who contribute to the Copim community: [https://copim.pubpub.org/copim-community-who-we-are](https://copim.pubpub.org/copim-community-who-we-are)
 
-The Copim community research projects—COPIM and Open Book Futures—were both made possible thanks to grants from the following:
+The Copim community research projects—COPIM and Open Book Futures—were both made possible thanks to grants from the following funders:
 
 [Arcadia](https://www.arcadiafund.org.uk/) – Arcadia is a charitable foundation that works to protect nature, preserve cultural heritage and promote open access to knowledge. Since 2002 Arcadia has awarded more than $1 billion to organizations around the world.
 

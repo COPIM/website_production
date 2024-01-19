@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Guides and resources"
 weight: 40
 ---
 

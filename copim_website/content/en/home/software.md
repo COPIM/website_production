@@ -9,7 +9,7 @@ Copim believes that open access and open source are interconnected and has made 
 
 Thoth's code is also open source with GitHub repositories at [https://github.com/thoth-pub/](https://github.com/thoth-pub/).
 
-### Thoth
+### Thoth Open Metadata
 
 **Thoth** is an open metadata management and dissemination platform, and a non-profit CIC registered in the UK. Find out more at: [https://thoth.pub/](https://thoth.pub/)
 
