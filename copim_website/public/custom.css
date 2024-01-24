@@ -2745,6 +2745,13 @@ a.highlight-Software {
   color: #000000;
 }
 
+a.highlight-About {
+  box-shadow: none;
+  padding-left: 0;
+  text-decoration: underline;
+  text-decoration-color: #BFCDD9;
+}
+
 .footer-links a {
   margin-right: 1.5rem;
 }

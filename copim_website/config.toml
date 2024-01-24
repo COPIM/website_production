@@ -95,6 +95,11 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon_pack = "fab"
 
 [[ params.nav ]]
+name = "about us"
+tag = "about us"
+icon = "users"
+
+[[ params.nav ]]
 name = "projects"
 tag = "projects"
 icon = "tasks"
@@ -118,11 +123,6 @@ icon = "file-text"
 name = "software"
 tag = "software"
 icon = "code"
-
-[[ params.nav ]]
-name = "about us"
-tag = "about us"
-icon = "users"
 
 # If you don't want to use the default menu, you can define one by yourself
 # [[menu.main]]

@@ -2,13 +2,13 @@
 title: "About us"
 ---
 
-Copim is a community of people and organisations working to build a fairer, more open future for scholarly books. Together we collaborate on community-led and values-driven initiatives which help to support open access authors, publishers and readers. 
-
 Initially formed around the [Community-led Open Publication Infrastructures for Monographs [COPIM] project (2019–2023)](https://copim.pubpub.org/copim-project), the Copim community continues to grow and develop through its work on the [Open Book Futures project (2023–2026)](https://copim.pubpub.org/open-book-futures-project) and its wider activities. 
 
-Learn more about the Copim community in this helpful introductory blog post by Lucy Barnes: [https://copim.pubpub.org/pub/introducing-open-book-futures-a-copim-community-project/](https://copim.pubpub.org/pub/introducing-open-book-futures-a-copim-community-project/) 
+View a list of the organisations and people who make up the Copim community: [https://copim.pubpub.org/copim-community-who-we-are](https://copim.pubpub.org/copim-community-who-we-are)
 
-View a list of the organisations and people who contribute to the Copim community: [https://copim.pubpub.org/copim-community-who-we-are](https://copim.pubpub.org/copim-community-who-we-are)
+Read more about our shared values: [https://copim.pubpub.org/copim-community-our-values](https://copim.pubpub.org/copim-community-our-values)
+
+Learn more about the Copim community in this helpful introductory blog post by Lucy Barnes: [https://copim.pubpub.org/pub/introducing-open-book-futures-a-copim-community-project/](https://copim.pubpub.org/pub/introducing-open-book-futures-a-copim-community-project/) 
 
 The Copim community research projects—COPIM and Open Book Futures—were both made possible thanks to grants from the following funders:
 

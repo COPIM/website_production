@@ -1,5 +1,13 @@
 tiles:
 -
+  name: "Copim"
+  subtitle: "Community working to improve OA book publishing (2019–)"
+  url: "https://copim.pubpub.org"
+  img: "/logos/copim-logo.png"
+  txt_color: "#000000"
+  category_color: "#EA7F1D"
+  tags: ["projects"]
+-
   name: "Open Book Futures"
   subtitle: "Research project (2023–2026)"
   url: "http://openbookfutures.copim.ac.uk"

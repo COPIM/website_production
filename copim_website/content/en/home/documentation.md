@@ -5,7 +5,7 @@ weight: 35
 
 ### PubPub
 
-Copim uses PubPub for our [main documentation and updates site](https://copim.pubpub.org/). Our open documentation is intended to provide discoverable and reusable insight into the development of community-owned infrastructure for the publication of open access books.
+Copim uses PubPub for our [main documentation and updates site](https://copim.pubpub.org/). Our open documentation is intended to provide discoverable and reusable insight into the development of community-owed infrastructure for the publication of open access books.
 
 ### Zenodo
 
