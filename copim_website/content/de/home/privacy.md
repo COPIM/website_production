@@ -3,7 +3,7 @@ date: '2023-09-18'
 title: Datenschutzrichtlinie
 ---
 
-Copim (Community-led Open Publication Infrastructures for Monographs) ist eine internationale Partnerschaft von Forschern, Universitäten, Bibliothekaren, Open Access Book Publishers und Infrastrukturanbietern. Diese Datenschutzerklärung erklärt, wie unser Projekt die von Ihnen erhobenen Daten verwendet, wenn Sie unsere Website nutzen.
+Copim (gemeinsame Open Publication Infrastructures for Monographs) ist eine internationale Partnerschaft von Forschern, Universitäten, Bibliothekaren, Open Access Book Publishers und Infrastrukturanbietern. Diese Datenschutzerklärung erklärt, wie unser Projekt die von Ihnen erhobenen Daten verwendet, wenn Sie unsere Website nutzen.
 
 ## Daten
 
@@ -39,7 +39,7 @@ Die Copim Website speichert keine First- oder Drittanbieter-Cookies auf Ihrem Co
 
 Sie können Ihren Browser so einstellen, dass er keine Cookies akzeptiert, und [allaboutcookies.org](https://allaboutcookies.org) sagt Ihnen, wie Sie Cookies von Ihrem Browser entfernen können.
 
-Allgemeines
+## Allgemeines
 
 ### Datenschutzrichtlinien anderer Webseiten
 

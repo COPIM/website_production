@@ -20,6 +20,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1337/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-GB"
                 href="http://localhost:1337/"
                 />
@@ -47,6 +52,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1337/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-GB"
                 href="http://localhost:1337/series/"
                 />
@@ -71,6 +81,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1337/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1337/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"

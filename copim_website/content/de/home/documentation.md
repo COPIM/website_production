@@ -5,9 +5,9 @@ weight: 35
 
 ### PubPub
 
-Copim verwendet PubPub für unsere [Hauptdokumentation und Aktualisierung](https://copim.pubpub.org/). Unsere offenen Dokumentationen sollen einen erfinderischen und wiederverwendbaren Einblick in die Entwicklung der gemeinschaftseigenen Infrastruktur für die Veröffentlichung von Open Access Büchern geben.
+Copim verwendet PubPub für unsere [Hauptdokumentation und Aktualisierung](https://copim.pubpub.org/). Unsere offene Dokumentation soll einen erfinderischen und wiederverwendbaren Einblick in die Entwicklung der gemeinschaftsweiten Infrastruktur für die Veröffentlichung von Open Access Büchern geben.
 
-## Zenodo
+### Zenodo
 
 [Unsere Community-Sammlung auf Zenodo](https://zenodo.org/communities/copim/) dient als Hub für offizielle Outputs der Copim Community, einschließlich Berichte und Präsentationen.
 

@@ -48,7 +48,7 @@ tiles:
 -
   name: "Toolkit for Small and Scholar-Led Open Access Publishers"
   subtitle: "Guide for smaller and scholar-led OA publishers"
-  url: "https://bookstack.openbookcollective.org/"
+  url: "https://toolkit.openbookcollective.org/"
   #bg_color: "#262959"
   txt_color: "#000000"
   category_color: "#D92B85"

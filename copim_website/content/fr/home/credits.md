@@ -5,7 +5,7 @@ title: Crédits
 
 Ce site a été conçu par [Simon Bowie](https://simonxix.com). Il utilise le générateur de sites statiques [Hugo](https://gohugo.io/) et a servi par le serveur Web [NGINX](https://www.nginx.com/). Les traductions de langues non anglaises sont fournies par [LibreTranslate](https://libretranslate.com/), une API de traduction automatique libre et open source, en utilisant un [script for batch translation of Markdown files](https://github.com/SimonXIX/Markdown_translation) développé par Simon Bowie.
 
-The Hugo theme is [Inate](https://github.com/COPIM/inate-hugo) which combines the Hugo themes [Introduction](https://github.com/victoriadrake/hugo-theme-introduction) designed by [Victoria Drake](https://victoria.dev) and [Slate](https://github.com/gesquive/slate) designed by [Gus Esquivel](https://github.com/gesquive). Grâce aux deux designers pour le partage et l'octroi de licences ouvertes.
+Le thème Hugo est [Inate](https://github.com/COPIM/inate-hugo) qui combine les thèmes Hugo [Introduction](https://github.com/victoriadrake/hugo-theme-introduction) conçus par [ Victoria Drake](https://victoria.dev) et [Slate](https://github.com/gesquive/slate) conçus par [Gus Esquivel](https://github.com/gesquive). Merci aux deux designers d'avoir partagé et ouvert la licence de leur travail.
 
 Le site et le dépôt Gitea sont hébergés sur un serveur [Ubuntu](https://ubuntu.com/) 22.04.3 hébergé par [Coventry University](https://www.coventry.ac.uk/) Digital Services.
 

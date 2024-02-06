@@ -7,7 +7,7 @@ weight: 30
 
 La **Open Book Collective** ebligas bibliotekojn kaj aliajn instituciojn finance apogi malfermajn aliriniciatojn per ĝiaj Membreco-Programoj. Eltrovi pli ĉe: [https://openbookcollective.org/](https://openbookcollective.org/)
 
-### Thoth
+### Thoth Open Metadata
 
 **Thoth** estas malferma metadatenoj-administrado kaj disvastigoplatformo, kaj ne-profita CIC registrita en la UK. Trovu pli ĉe: [https://thoth.pub/](https://thoth.pub/)
 

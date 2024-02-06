@@ -13,6 +13,6 @@ Weitere Informationen finden Sie auf unserer PubPub-Website: [https://copim.pubp
 
 Das **COPIM (Community-led Open Publication Infrastructures for Monographs)** Forschungsprojekt lief von November 2019 bis April 2023 und wurde vom Research England Development (RED) Fund und Arcadia gefördert. Das Projekt bildete eine internationale Partnerschaft von Forschern, Universitäten, Bibliothekaren, Open-Access-Verlags- und Infrastrukturanbietern, die alle durch den Wunsch vereint sind, Open-Access-Book-Publishing zu blühen.
 
-Sie können mehr über das COPIM-Projekt über seine archivierte Projektwebsite erfahren: [https://www.copim.ac.uk/](https://www.copim.ac.uk/)
+Sie können mehr über das COPIM-Projekt über seine archivierte Projektwebsite erfahren: [https://archive.copim.ac.uk/](https://archive.copim.ac.uk/)
 
 Sie können auch den letzten COPIM-Projektbericht hier lesen: [https://doi.org/10.5281/zenodo.7961527](https://doi.org/10.5281/zenodo.7961527)

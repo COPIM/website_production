@@ -7,8 +7,6 @@ Copim (Community-led Open Publication Infrastructures for Monographs) estas inte
 
 ## Datumoj
 
-### Kiujn datumojn ni kolektas?
-
 Copim konscie minimumigas la kvanton de informoj kiujn ni kolektas por uzantoj de nia retejo. Ni konservas minimuman kvanton de ne-identigaj informoj por la celo de spurado de interretanalizistoj.
 
 Ni nuntempe kolektas kaj prilaboras la sekvajn informojn por ĉiu uzanto de nia retejo:
@@ -17,17 +15,17 @@ Ni nuntempe kolektas kaj prilaboras la sekvajn informojn por ĉiu uzanto de nia 
  - operaciumo kaj retlegilo kutimis aliri la ejon
  - dato kaj tempo, ke la uzanto aliris la retejon
  - kiu retejo nomis la uzanton al la retejo
- - kiu paĝoj en la retejo la uzanto aliris
+ -  kiu paĝoj en la retejo la uzanto aliris
 
 ### Kiel ni stokas viajn datumojn?
 
-Viaj datenoj estas kolektitaj fare de [NGINX](https://www.nginx.com/) retservilaj alirregistroj kaj estas aŭtomate pasitaj al [GoAccess](https://goaccess.io/) por analizo. Ĉiuj viaj informoj estas sekure stokitaj sur nia virtuala servilo gastigita fare de Coventry University Digital Services.
+Viaj datenoj estas kolektitaj fare de [NGINX] (https://www.nginx.com/) retservilaj alirregistroj kaj estas aŭtomate pasitaj al [GoAccess] (https://goaccess.io/) por analizo. Ĉiuj viaj informoj estas sekure stokitaj sur nia virtuala servilo gastigita fare de Coventry University Digital Services.
 
 Ni konservas anonimigitajn IP-adresodatenojn dum du monatoj. Ni tiam forigas viajn informojn aŭtomate forigante IP-adresodatenojn de niaj tagaloj uzantaj la ipv6loganon servaĵon en la [ipv6calc](https://www.deepspace6.net/projects/ipv6calc.html) pakaĵo.
 
 ### Kiel ni uzos viajn datumojn?
 
-Via anonimigita datenoj nur estos uzitaj en agregaĵo por desegni uzokutimo tendencojn de nia retejo por raporti al niaj kvestistoj. Tiuj analizistoj povas esti partumitaj kun la [Research England Development (RED) fondaĵo](https://re.ukri.org/funding/our-funds-overview/research-england-development-red-fund/) kaj [Arcadia](https://www.arcadiafund.org.uk/), bonfara fondaĵo de Lisbet Rausing kaj Peter Baldwin.
+Via anonimigita datenoj nur estos uzitaj en agregaĵo por desegni uzokutimo tendencojn de nia retejo por raporti al niaj kvestistoj. Tiuj analizistoj povas esti partumitaj kun la [Research England Development (RED) Fund](https://re.ukri.org/funding/our-funds-overview/research-england-development-red-fund/) kaj [Arcadia](https://www.arcadiafund.org.uk/), bonfara fondaĵo de Lisbet Rausing kaj Peter Baldwin.
 
 ## Kuketoj
 
@@ -51,4 +49,4 @@ Copim konservas ĝian privatecpolitikon sub regula revizio kaj metas iujn ajn ĝ
 
 ### Kiel kontakti nin
 
-Se vi havas ajnajn demandojn pri privateca politiko, la datumoj, kiujn ni tenas sur vi, aŭ vi ŝatus ekzerci unu el viaj datumoj protekto rajtoj, bonvolu ne hezitu kontaktigi nin.
+Se vi havas demandojn pri privateca politiko, la datumoj, kiujn ni tenas sur vi, aŭ vi ŝatus ekzerci unu el viaj datumoj protekto rajtoj, bonvolu ne hezitu kontakti nin.

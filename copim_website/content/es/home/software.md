@@ -9,9 +9,9 @@ Copim cree que el acceso abierto y la fuente abierta están interconectados y ha
 
 El código de Thoth también es fuente abierta con repositorios GitHub en [https://github.com/thoth-pub/](https://github.com/thoth-pub/).
 
-#### Thoth
+### Thoth Open Metadata
 
-**Thoth** es una plataforma abierta de gestión y difusión de metadatos, y un CIC sin fines de lucro registrado en el Reino Unido. Más información en: [https://thoth.pub/](https://thoth.pub/)
+**Thoth** es una plataforma abierta de gestión y difusión de metadatos, y un CIC sin fines de lucro registrado en el Reino Unido. Más información en: [https://th.pub/](https://th.pub/)
 
 ### Experimental Publishing Compendium
 
