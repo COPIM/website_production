@@ -80,10 +80,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "linkedin" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://twitter.com/Copim_community"
-        name  = "X"
-        icon  = "twitter" # icon name without the 'fa-'
-        icon_pack = "x"
+        url   = "https://bsky.app/profile/copim.bsky.social"
+        name  = "Bluesky"
+        icon  = "bluesky" # icon name without the 'fa-'
+        icon_pack = "fab"
     #[[params.social]]
     #    url   = "https://github.com/COPIM"
     #    icon  = "github" # icon name without the 'fa-'
