@@ -9,4 +9,4 @@ O tema Hugo é [Inato](https://github.com/COPIM/inate-hugo) que combina os temas
 
 O local e o repositório Gitea estão hospedados num servidor [Ubuntu](https://ubuntu.com/) 22.04.3 hospedado por [Coventry University](https://www.coventry.ac.uk/) Serviços Digitais.
 
-Todo o conteúdo no site é © 2023–2024 [Copim]({{%relref "/"%}}) e licenciado sob uma [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Todo o conteúdo no site é © 2023–2025 [Copim]({{%relref "/"%}}) e licenciado sob uma [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

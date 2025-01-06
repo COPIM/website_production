@@ -5,6 +5,7 @@
     <link>http://localhost:1337/eo/series/</link>
     <description>Recent content in Series on Copim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>eo</language><atom:link href="http://localhost:1337/eo/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>eo</language>
+    <atom:link href="http://localhost:1337/eo/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -9,4 +9,4 @@ La Hugo-temo estas [Inate] (https://github.com/COPIM/inate-hugo) kiu kombinas la
 
 La ejo kaj Gitea deponejo estas gastigitaj sur [Ubuntu](https://ubuntu.com/) 22.04.3 servilo gastigita fare de [Coventry University](https://www.coventry.ac.uk/) Digital Services.
 
-Ĉiu enhavo sur la ejo estas © 2023-2024 [Copim]({{%relref "/"%}}) kaj licencita sub [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Ĉiu enhavo sur la ejo estas © 2023-2025 [Copim]({{%relref "/"%}}) kaj licencita sub [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

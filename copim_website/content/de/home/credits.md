@@ -9,4 +9,4 @@ Das Thema Hugo ist [Inate](https://github.com/COPIM/inate-hugo), das die Hugo-Th
 
 Die Website und das Gitea-Repository werden auf einem [Ubuntu](https://ubuntu.com/) 22.04.3 Server, der von gehostet wird [Coventry University](https://www.coventry.ac.uk/) Digital Services.
 
-Alle Inhalte auf der Website sind © 2023–2024 [Copim]({{%relref "/"%}}) und lizenziert unter einer [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Alle Inhalte auf der Website sind © 2023–2025 [Copim]({{%relref "/"%}}) und lizenziert unter einer [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
